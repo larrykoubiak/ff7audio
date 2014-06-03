@@ -1,8 +1,8 @@
 #ifndef __PROTRACKER_H__
 #define __PROTRACKER_H__
 
-struct ProtrackerModule {
+typedef struct {
 	char songname[22];
-}
+} ProtrackerModule;
 
 #endif

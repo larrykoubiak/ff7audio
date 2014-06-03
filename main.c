@@ -4,7 +4,6 @@
 
 #include "main.h"
 #include "protracker.h"
-
 int main(int argc, char **argv) {
 	char *filename;
 	if(argc == 2) {
