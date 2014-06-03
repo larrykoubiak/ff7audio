@@ -2,6 +2,7 @@
 #define __MAIN_H__
 
 #define REVERB_BUF_LEN 4800
+#include "protracker.h"
 
 static long reverb_len;
 

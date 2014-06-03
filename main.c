@@ -3,7 +3,6 @@
 #include <string.h>
 
 #include "main.h"
-#include "protracker.h"
 int main(int argc, char **argv) {
 	char *filename;
 	if(argc == 2) {
@@ -31,10 +30,12 @@ void load_module(char* filename) {
 	}
 	/*parse file*/
 	mod = malloc(sizeof(ProtrackerModule));
-	mod->samples = malloc(sizeof(ProtrackerSample)*31);
 	fread(mod,sizeof(ProtrackerModule),1,file);
+	mod->samples = malloc(sizeof(ProtrackerSample)*31);
+	fread(mod->samples,sizeof(ProtrackerSample),31,file);
 	print_module(mod);
 	/*clean up*/
+	free(mod->samples);
 	free(mod);
 	error = fclose(file);
 	if(error!=0) {
@@ -44,7 +45,10 @@ void load_module(char* filename) {
 }
 
 void print_module(ProtrackerModule *mod) {
+	int i;
 	fprintf(stdout, "Song name: %s\n", mod->songname);
-	fprintf(stdout, "Sample name: %s\n", mod->samples[0]->name);
-	fprintf(stdout, "Sample length: %s\n", mod->samples[0]->length);
+	for (i=0;i<31;i++) {
+		fprintf(stdout, "Sample name: %s\n", mod->samples[i].name);
+		fprintf(stdout, "Sample length: %i\n", mod->samples[i].length);
+	}
 }
