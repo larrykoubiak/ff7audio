@@ -3,7 +3,7 @@
 
 typedef struct {
 	char songname[20];
-	ProtrackerSample samples[31];
+	ProtrackerSample samples*;
 } ProtrackerModule;
 
 typedef struct {

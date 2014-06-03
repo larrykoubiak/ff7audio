@@ -31,6 +31,7 @@ void load_module(char* filename) {
 	}
 	/*parse file*/
 	mod = malloc(sizeof(ProtrackerModule));
+	mod->samples = malloc(sizeof(ProtrackerSample)*31);
 	fread(mod,sizeof(ProtrackerModule),1,file);
 	print_module(mod);
 	/*clean up*/
