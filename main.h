@@ -6,5 +6,6 @@
 static long reverb_len;
 
 void load_module(char *filename);
+void print_module(ProtrackerModule *mod);
 
 #endif

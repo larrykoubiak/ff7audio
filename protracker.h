@@ -2,7 +2,16 @@
 #define __PROTRACKER_H__
 
 typedef struct {
-	char songname[22];
+	char songname[20];
+	ProtrackerSample samples[31];
 } ProtrackerModule;
 
+typedef struct {
+	char name[22];
+	short length;
+	char finetune;
+	char volume;
+	short repeat;
+	short replen;
+} ProtrackerSample;
 #endif

@@ -22,15 +22,28 @@ int main(int argc, char **argv) {
 void load_module(char* filename) {
 	FILE *file;
 	long error;
-	
+	ProtrackerModule *mod;
+	/*open file*/
 	file = fopen(filename, "rb");
 	if (file == NULL) {
 		fprintf(stderr, "Unable to open file.\n");
 		exit(EXIT_FAILURE);
 	}
+	/*parse file*/
+	mod = malloc(sizeof(ProtrackerModule));
+	fread(mod,sizeof(ProtrackerModule),1,file);
+	print_module(mod);
+	/*clean up*/
+	free(mod);
 	error = fclose(file);
 	if(error!=0) {
 		fprintf(stderr, "Unable to close file.\n");
 		exit(EXIT_FAILURE);
 	}
+}
+
+void print_module(ProtrackerModule *mod) {
+	fprintf(stdout, "Song name: %s\n", mod->songname);
+	fprintf(stdout, "Sample name: %s\n", mod->samples[0]->name);
+	fprintf(stdout, "Sample length: %s\n", mod->samples[0]->length);
 }
