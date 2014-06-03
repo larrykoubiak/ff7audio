@@ -15,6 +15,22 @@ int main(int argc, char **argv) {
 		fprintf(stderr,"Usage: %s [-reverb] filename.\n",argv[0]);	
 		return EXIT_FAILURE;	
 	}
-	fprintf(stdout,"%s is now open!",filename);	
+	load_module(filename);
 	return EXIT_SUCCESS;
+}
+
+void load_module(char* filename) {
+	FILE *file;
+	long error;
+	
+	file = fopen(filename, "rb");
+	if (file == NULL) {
+		fprintf(stderr, "Unable to open file.\n");
+		exit(EXIT_FAILURE);
+	}
+	error = fclose(file);
+	if(error!=0) {
+		fprintf(stderr, "Unable to close file.\n");
+		exit(EXIT_FAILURE);
+	}
 }
