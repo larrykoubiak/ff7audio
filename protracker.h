@@ -3,11 +3,11 @@
 
 typedef struct _ProtrackerSample {
 	char name[22];
-	short length;
-	char finetune;
-	char volume;
-	short repeat;
-	short replen;
+	unsigned short length;
+	unsigned char finetune;
+	unsigned char volume;
+	unsigned short repeat;
+	unsigned short replen;
 } ProtrackerSample;
 
 typedef struct _ProtrackerModule {

@@ -21,6 +21,7 @@ int main(int argc, char **argv) {
 void load_module(char* filename) {
 	FILE *file;
 	long error;
+	int i;
 	ProtrackerModule *mod;
 	/*open file*/
 	file = fopen(filename, "rb");
@@ -31,8 +32,15 @@ void load_module(char* filename) {
 	/*parse file*/
 	mod = malloc(sizeof(ProtrackerModule));
 	fread(mod,sizeof(ProtrackerModule),1,file);
+	/*parse samples*/
 	mod->samples = malloc(sizeof(ProtrackerSample)*31);
+	fseek(file,20,SEEK_SET);
 	fread(mod->samples,sizeof(ProtrackerSample),31,file);
+	for(i=0;i<31;i++) {
+		mod->samples[i].length = swap16(mod->samples[i].length) * 2;
+		mod->samples[i].repeat = swap16(mod->samples[i].repeat) * 2;
+		mod->samples[i].replen = swap16(mod->samples[i].replen) * 2;
+	}
 	print_module(mod);
 	/*clean up*/
 	free(mod->samples);
@@ -46,9 +54,12 @@ void load_module(char* filename) {
 
 void print_module(ProtrackerModule *mod) {
 	int i;
-	fprintf(stdout, "Song name: %s\n", mod->songname);
+	fprintf(stdout, "\nSong name: %s\n\n", mod->songname);
+	fprintf(stdout, "%20s %6s %3s %3s %5s %5s\n","Sample name","LEN", "FT", "VOL", "LOOP", "REPL");
+	fprintf(stdout, "%20s %6s %3s %3s %5s %5s\n","--------------------","------","---","---","---","-----","-----");
 	for (i=0;i<31;i++) {
-		fprintf(stdout, "Sample name: %s\n", mod->samples[i].name);
-		fprintf(stdout, "Sample length: %i\n", mod->samples[i].length);
+		ProtrackerSample smp;
+		smp = mod->samples[i];	
+		fprintf(stdout, "%20s %6i %3i %3i %5i %5i\n", smp.name, smp.length, smp.finetune, smp.volume, smp.repeat, smp.replen);
 	}
 }

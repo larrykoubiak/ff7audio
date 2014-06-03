@@ -9,4 +9,7 @@ static long reverb_len;
 void load_module(char *filename);
 void print_module(ProtrackerModule *mod);
 
+unsigned short swap16(short val) {
+	return (val >> 8) | (val <<8);
+}
 #endif
