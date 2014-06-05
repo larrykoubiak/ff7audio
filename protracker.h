@@ -11,10 +11,14 @@ typedef struct _ProtrackerSample {
 } ProtrackerSample;
 
 typedef struct _ProtrackerNote {
-	char sample_idx;
-	short period;
-	short effect;
+	unsigned char sample_idx;
+	unsigned short period;
+	unsigned short effect;
 } ProtrackerNote;
+
+typedef struct _ProtrackerPattern {
+	ProtrackerNote notes[4][64];
+} ProtrackerPattern;
 
 typedef struct _ProtrackerModule {
 	char songname[20];
@@ -23,6 +27,12 @@ typedef struct _ProtrackerModule {
 	unsigned char reset;
 	char sequence[128];
 	char type[4];
+	char nbPatterns;
+	ProtrackerPattern *patterns;
 } ProtrackerModule;
+
+int ProtrackerGetPatternCount(ProtrackerModule *mod);
+
+char* ProtrackerGetNote(short period);
 
 #endif
