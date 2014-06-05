@@ -10,9 +10,19 @@ typedef struct _ProtrackerSample {
 	unsigned short replen;
 } ProtrackerSample;
 
+typedef struct _ProtrackerNote {
+	char sample_idx;
+	short period;
+	short effect;
+} ProtrackerNote;
+
 typedef struct _ProtrackerModule {
 	char songname[20];
-	ProtrackerSample *samples;
+	ProtrackerSample *samples[31];
+	unsigned char songlength;
+	unsigned char reset;
+	char sequence[128];
+	char type[4];
 } ProtrackerModule;
 
 #endif

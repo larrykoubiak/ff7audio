@@ -29,21 +29,28 @@ void load_module(char* filename) {
 		fprintf(stderr, "Unable to open file.\n");
 		exit(EXIT_FAILURE);
 	}
+	/*----------*/
 	/*parse file*/
+	/*----------*/	
 	mod = malloc(sizeof(ProtrackerModule));
-	fread(mod,sizeof(ProtrackerModule),1,file);
-	/*parse samples*/
-	mod->samples = malloc(sizeof(ProtrackerSample)*31);
-	fseek(file,20,SEEK_SET);
-	fread(mod->samples,sizeof(ProtrackerSample),31,file);
+	fread(mod->songname,20,1,file);
+	/*parse samplesinfo*/
 	for(i=0;i<31;i++) {
-		mod->samples[i].length = swap16(mod->samples[i].length) * 2;
-		mod->samples[i].repeat = swap16(mod->samples[i].repeat) * 2;
-		mod->samples[i].replen = swap16(mod->samples[i].replen) * 2;
+		mod->samples[i] = malloc(sizeof(ProtrackerSample));
+		fread(mod->samples[i],sizeof(ProtrackerSample),1,file);
+		mod->samples[i]->length = swap16(mod->samples[i]->length) * 2;
+		mod->samples[i]->repeat = swap16(mod->samples[i]->repeat) * 2;
+		mod->samples[i]->replen = swap16(mod->samples[i]->replen) * 2;
 	}
+	fread(&(mod->songlength),1,1,file);
+	fread(&(mod->reset),1,1,file);
+	fread(mod->sequence,1,128,file);
+	fread(mod->type,1,4,file);
 	print_module(mod);
 	/*clean up*/
-	free(mod->samples);
+	for(i=0;i<31;i++) {
+		free(mod->samples[i]);
+	}
 	free(mod);
 	error = fclose(file);
 	if(error!=0) {
@@ -54,12 +61,21 @@ void load_module(char* filename) {
 
 void print_module(ProtrackerModule *mod) {
 	int i;
-	fprintf(stdout, "\nSong name: %s\n\n", mod->songname);
+	fprintf(stdout, "\nSong name: %s\n", mod->songname);
+	fprintf(stdout, "\nSong length: %4i\n", mod->songlength);
+	fprintf(stdout, "\nSong reset: %4i\n", mod->reset);
+	fprintf(stdout, "\nSong type: %s\n\n", mod->type);
 	fprintf(stdout, "%20s %6s %3s %3s %5s %5s\n","Sample name","LEN", "FT", "VOL", "LOOP", "REPL");
 	fprintf(stdout, "%20s %6s %3s %3s %5s %5s\n","--------------------","------","---","---","---","-----","-----");
 	for (i=0;i<31;i++) {
-		ProtrackerSample smp;
+		ProtrackerSample *smp;
 		smp = mod->samples[i];	
-		fprintf(stdout, "%20s %6i %3i %3i %5i %5i\n", smp.name, smp.length, smp.finetune, smp.volume, smp.repeat, smp.replen);
+		fprintf(stdout, "%20s %6i %3i %3i %5i %5i\n", smp->name, smp->length, smp->finetune, smp->volume, smp->repeat, smp->replen);
 	}
+	fprintf(stdout, "%20s %6s %3s %3s %5s %5s\n\n","--------------------","------","---","---","---","-----","-----");
+	fprintf(stdout, "Sequence : ");
+	for(i=0;i<mod->songlength;i++) {
+		fprintf(stdout, "%02i ",mod->sequence[i]);
+	}
+	fprintf(stdout, "\n");
 }
