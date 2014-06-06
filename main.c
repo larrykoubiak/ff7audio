@@ -23,8 +23,9 @@ void load_module(char* filename) {
 	long error;
 	int i,j,k;
 	unsigned char tempnote[4];
-	ProtrackerPattern *pattern;
 	ProtrackerModule *mod;
+	ProtrackerPattern *pattern;
+	ProtrackerNote *note;
 	/*open file*/
 	file = fopen(filename, "rb");
 	if (file == NULL) {
@@ -58,18 +59,24 @@ void load_module(char* filename) {
 	pattern = mod->patterns;
 	for(i=0; i<mod->nbPatterns;i++) {
 		pattern = mod->patterns+i;
+		pattern->notes = malloc(sizeof(ProtrackerNote)*64*mod->nbChannels);
 		for(j=0; j<64;j++) {
-			for(k=0; k<4;k++) {
+			for(k=0; k<mod->nbChannels;k++) {
 				fread(tempnote,sizeof(char),4,file);
-				pattern->notes[k][j].sample_idx = (tempnote[0] & 0xF0) + (tempnote[2] >> 4);
-				pattern->notes[k][j].period = tempnote[1] | ((tempnote[0] & 0X0F) <<8);
-				pattern->notes[k][j].effect = tempnote[3] | ((tempnote[2] & 0x0F) <<8);
+				note = pattern->notes+((j*mod->nbChannels)+k);
+				note->sample_idx = (tempnote[0] & 0xF0) + (tempnote[2] >> 4);
+				note->period = tempnote[1] | ((tempnote[0] & 0X0F) <<8);
+				note->effect = tempnote[3] | ((tempnote[2] & 0x0F) <<8);
 			}
 		}
 	}
 	print_module(mod);
 	/*clean up*/
 	free(mod->patterns);
+	for(i=0;i<mod->nbPatterns;i++) {
+		pattern = mod->patterns+i;
+		free(pattern);
+	}
 	for(i=0;i<31;i++) {
 		free(mod->samples[i]);
 	}
@@ -84,6 +91,7 @@ void load_module(char* filename) {
 void print_module(ProtrackerModule *mod) {
 	int i,j,k;
 	ProtrackerPattern *pattern;
+	ProtrackerNote *note;
 	fprintf(stdout, "Song name   	: %s\n", mod->songname);
 	fprintf(stdout, "Song length 	: %4i\n", mod->songlength);
 	fprintf(stdout, "Song reset  	: %4i\n", mod->reset);
@@ -105,16 +113,15 @@ void print_module(ProtrackerModule *mod) {
 	fprintf(stdout, "\n");
 	for (i=0;i<mod->nbPatterns;i++) {
 		pattern = mod->patterns+i;
-		fprintf(stdout,".------------------------------------------------------------.\n");
+		fprintf(stdout,".-------------------------------------------------------------.\n");
 		for(j=0;j<64;j++) {
-			fprintf(stdout,"| %02i | %02X |",i,j);
-			for(k=0;k<4;k++) {
-				ProtrackerNote note;
-				note = pattern->notes[k][j];
-				fprintf(stdout, "%03s %02X %03X | ", ProtrackerGetNote(note.period), note.sample_idx, note.effect);
+			fprintf(stdout,"| %02i | %02X | ",i,j);
+			for(k=0;k<mod->nbChannels;k++) {
+				note = pattern->notes+((j*mod->nbChannels)+k);
+				fprintf(stdout, "%3s %02X %03X | ", ProtrackerGetNote(note->period), note->sample_idx, note->effect);
 			}
 			fprintf(stdout,"\n");
 		}
 	}
-	fprintf(stdout,".------------------------------------------------------------.\n");
+	fprintf(stdout,".-------------------------------------------------------------.\n");
 }

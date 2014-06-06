@@ -17,7 +17,7 @@ typedef struct _ProtrackerNote {
 } ProtrackerNote;
 
 typedef struct _ProtrackerPattern {
-	ProtrackerNote notes[][];
+	ProtrackerNote *notes;
 } ProtrackerPattern;
 
 typedef struct _ProtrackerModule {
