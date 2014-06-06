@@ -33,6 +33,6 @@ typedef struct _ProtrackerModule {
 
 int ProtrackerGetPatternCount(ProtrackerModule *mod);
 
-char* ProtrackerGetNote(short period);
+char* ProtrackerGetNote(unsigned short period);
 
 #endif

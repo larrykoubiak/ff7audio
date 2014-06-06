@@ -44,1174 +44,1174 @@ st-69:lemharpsichord   4726   0  48  3592  1128
 -------------------- ------ --- ---   --- -----
 
 Sequence : 00 01 00 02 03 04 05 06 05 06 07 08 08 09 11 10 10 12 13 14 15 16 15 16 17 15 16 17 18 
---------------------------------------------------------------
-00 |octave 2 01 0F0C | octave 2 04 0037 | octave 2 03 0000 | octave 1 00 0000 | 
-01 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0483 | octave 1 00 0000 | 
-02 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-03 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-04 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-05 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-06 |octave 2 01 0000 | octave 1 00 0037 | octave 1 03 0000 | octave 1 00 0000 | 
-07 |octave 2 01 0000 | octave 1 00 0037 | octave 1 03 0000 | octave 1 00 0000 | 
-08 |octave 1 01 0000 | octave 1 00 0037 | octave 1 03 0104 | octave 1 00 0000 | 
-09 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-10 |octave 2 01 0000 | octave 1 00 0037 | octave 1 03 0000 | octave 1 00 0000 | 
-11 |octave 1 01 0000 | octave 1 00 0037 | octave 1 03 0000 | octave 1 00 0000 | 
-12 |octave 2 01 0000 | octave 1 00 0037 | octave 1 03 0000 | octave 1 00 0000 | 
-13 |octave 2 01 0000 | octave 1 00 0037 | octave 1 03 0000 | octave 1 00 0000 | 
-14 |octave 1 01 0000 | octave 1 00 0037 | octave 2 03 0000 | octave 1 00 0000 | 
-15 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-16 |octave 2 01 0000 | octave 2 04 0027 | octave 1 03 0000 | octave 1 00 0000 | 
-17 |octave 2 01 0000 | octave 1 00 0027 | octave 1 00 0400 | octave 1 00 0000 | 
-18 |octave 1 01 0000 | octave 1 00 0027 | octave 1 00 0400 | octave 1 00 0000 | 
-19 |octave 2 01 0000 | octave 1 00 0027 | octave 1 00 0400 | octave 1 00 0000 | 
-20 |octave 2 01 0000 | octave 1 00 0027 | octave 1 00 0400 | octave 1 00 0000 | 
-21 |octave 1 01 0000 | octave 1 00 0027 | octave 1 00 0400 | octave 1 00 0000 | 
-22 |octave 2 01 0000 | octave 1 00 0027 | octave 1 00 0400 | octave 1 00 0000 | 
-23 |octave 2 01 0000 | octave 1 00 0027 | octave 1 00 0400 | octave 1 00 0000 | 
-24 |octave 1 01 0000 | octave 1 00 0027 | octave 2 03 0000 | octave 1 00 0000 | 
-25 |octave 2 01 0000 | octave 1 00 0027 | octave 1 00 0400 | octave 1 00 0000 | 
-26 |octave 2 01 0000 | octave 1 00 0027 | octave 1 00 0400 | octave 1 00 0000 | 
-27 |octave 1 01 0000 | octave 1 00 0027 | octave 1 00 0400 | octave 1 00 0000 | 
-28 |octave 2 01 0000 | octave 1 00 0027 | octave 1 00 0400 | octave 1 00 0000 | 
-29 |octave 2 01 0000 | octave 1 00 0027 | octave 1 00 0400 | octave 1 00 0000 | 
-30 |octave 1 01 0000 | octave 1 00 0027 | octave 2 03 0000 | octave 1 00 0000 | 
-31 |octave 2 01 0000 | octave 1 00 0027 | octave 1 00 0400 | octave 1 00 0000 | 
-32 |octave 2 01 0000 | octave 2 04 0049 | octave 2 03 0000 | octave 1 00 0000 | 
-33 |octave 2 01 0000 | octave 1 00 0049 | octave 1 00 0400 | octave 1 00 0000 | 
-34 |octave 1 01 0000 | octave 1 00 0049 | octave 1 00 0400 | octave 1 00 0000 | 
-35 |octave 2 01 0000 | octave 1 00 0049 | octave 1 00 0400 | octave 1 00 0000 | 
-36 |octave 2 01 0000 | octave 1 00 0049 | octave 1 00 0400 | octave 1 00 0000 | 
-37 |octave 1 01 0000 | octave 1 00 0049 | octave 1 00 0400 | octave 1 00 0000 | 
-38 |octave 2 01 0000 | octave 1 00 0049 | octave 2 03 0000 | octave 1 00 0000 | 
-39 |octave 2 01 0000 | octave 1 00 0049 | octave 1 03 0000 | octave 1 00 0000 | 
-40 |octave 1 01 0000 | octave 1 00 0049 | octave 1 03 0000 | octave 1 00 0000 | 
-41 |octave 2 01 0000 | octave 1 00 0049 | octave 1 00 0400 | octave 1 00 0000 | 
-42 |octave 2 01 0000 | octave 1 00 0049 | octave 1 03 0000 | octave 1 00 0000 | 
-43 |octave 1 01 0000 | octave 1 00 0049 | octave 2 03 0000 | octave 1 00 0000 | 
-44 |octave 2 01 0000 | octave 1 00 0049 | octave 1 03 0000 | octave 1 00 0000 | 
-45 |octave 2 01 0000 | octave 1 00 0049 | octave 2 03 0000 | octave 1 00 0000 | 
-46 |octave 1 01 0000 | octave 1 00 0049 | octave 2 03 0000 | octave 1 00 0000 | 
-47 |octave 2 01 0000 | octave 1 00 0049 | octave 1 00 0400 | octave 1 00 0000 | 
-48 |octave 2 01 0000 | octave 2 04 0037 | octave 2 03 0000 | octave 1 00 0000 | 
-49 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-50 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-51 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-52 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-53 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-54 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-55 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-56 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0A01 | octave 1 00 0000 | 
-57 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0A01 | octave 1 00 0000 | 
-58 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0A01 | octave 1 00 0000 | 
-59 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0A01 | octave 1 00 0000 | 
-60 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0A01 | octave 1 00 0000 | 
-61 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0A01 | octave 1 00 0000 | 
-62 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0A01 | octave 1 00 0000 | 
-63 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0000 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 2 01 0000 | octave 2 04 0038 | octave 1 00 0000 | octave 1 00 0000 | 
-01 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0000 | octave 1 00 0000 | 
-02 |octave 1 01 0000 | octave 1 00 0038 | octave 1 03 0000 | octave 1 00 0000 | 
-03 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-04 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-05 |octave 1 01 0000 | octave 1 00 0038 | octave 1 03 0000 | octave 1 00 0000 | 
-06 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-07 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-08 |octave 1 01 0000 | octave 1 00 0038 | octave 1 03 0000 | octave 1 00 0000 | 
-09 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-10 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-11 |octave 1 01 0000 | octave 1 00 0038 | octave 1 03 0000 | octave 1 00 0000 | 
-12 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-13 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-14 |octave 1 01 0000 | octave 1 00 0038 | octave 1 03 0000 | octave 1 00 0000 | 
-15 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-16 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0A08 | octave 1 00 0000 | 
-17 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-18 |octave 1 01 0000 | octave 1 00 0058 | octave 1 03 0000 | octave 1 00 0000 | 
-19 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-20 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-21 |octave 1 01 0000 | octave 1 00 0058 | octave 1 03 0000 | octave 1 00 0000 | 
-22 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-23 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-24 |octave 1 01 0000 | octave 1 00 0058 | octave 1 03 0000 | octave 1 00 0000 | 
-25 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-26 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-27 |octave 1 01 0000 | octave 1 00 0058 | octave 1 03 0000 | octave 1 00 0000 | 
-28 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-29 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-30 |octave 1 01 0000 | octave 1 00 0058 | octave 1 03 0000 | octave 1 00 0000 | 
-31 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-32 |octave 2 01 0000 | octave 1 00 0037 | octave 1 03 0000 | octave 1 00 0000 | 
-33 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-34 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-35 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-36 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-37 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-38 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-39 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-40 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-41 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-42 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-43 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-44 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-45 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-46 |octave 1 01 0000 | octave 1 00 0037 | octave 1 03 0000 | octave 1 00 0000 | 
-47 |octave 2 01 0000 | octave 1 00 0037 | octave 1 03 0000 | octave 1 00 0000 | 
-48 |octave 2 01 0000 | octave 1 04 0059 | octave 1 03 0000 | octave 1 00 0000 | 
-49 |octave 2 01 0000 | octave 1 00 0059 | octave 1 00 0400 | octave 1 00 0000 | 
-50 |octave 1 01 0000 | octave 1 00 0059 | octave 1 00 0400 | octave 1 00 0000 | 
-51 |octave 2 01 0000 | octave 1 00 0059 | octave 1 00 0400 | octave 1 00 0000 | 
-52 |octave 2 01 0000 | octave 1 00 0059 | octave 1 00 0400 | octave 1 00 0000 | 
-53 |octave 1 01 0000 | octave 1 00 0059 | octave 1 00 0400 | octave 1 00 0000 | 
-54 |octave 2 01 0000 | octave 1 00 0059 | octave 1 00 0400 | octave 1 00 0000 | 
-55 |octave 2 01 0000 | octave 1 00 0059 | octave 1 00 0400 | octave 1 00 0000 | 
-56 |octave 1 01 0000 | octave 1 00 0059 | octave 1 03 0000 | octave 1 00 0000 | 
-57 |octave 2 01 0000 | octave 1 00 0059 | octave 1 03 0000 | octave 1 00 0000 | 
-58 |octave 2 01 0000 | octave 1 00 0059 | octave 1 03 0000 | octave 1 00 0000 | 
-59 |octave 1 01 0000 | octave 1 00 0059 | octave 2 03 0000 | octave 1 00 0000 | 
-60 |octave 2 01 0000 | octave 1 00 0059 | octave 2 03 0000 | octave 1 00 0000 | 
-61 |octave 2 01 0000 | octave 1 00 0059 | octave 2 03 0000 | octave 1 00 0000 | 
-62 |octave 1 01 0000 | octave 1 00 0059 | octave 2 03 0000 | octave 1 00 0000 | 
-63 |octave 2 01 0000 | octave 1 00 0059 | octave 2 03 0000 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 2 01 0000 | octave 2 04 0038 | octave 1 00 0000 | octave 1 00 0000 | 
-01 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0000 | octave 1 00 0000 | 
-02 |octave 1 01 0000 | octave 1 00 0038 | octave 1 03 0000 | octave 1 00 0000 | 
-03 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-04 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-05 |octave 1 01 0000 | octave 1 00 0038 | octave 1 03 0000 | octave 1 00 0000 | 
-06 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-07 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-08 |octave 1 01 0000 | octave 1 00 0038 | octave 1 03 0000 | octave 1 00 0000 | 
-09 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-10 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-11 |octave 1 01 0000 | octave 1 00 0038 | octave 1 03 0000 | octave 1 00 0000 | 
-12 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-13 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-14 |octave 1 01 0000 | octave 1 00 0038 | octave 1 03 0000 | octave 1 00 0000 | 
-15 |octave 2 01 0000 | octave 1 00 0038 | octave 1 00 0400 | octave 1 00 0000 | 
-16 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0A08 | octave 1 00 0000 | 
-17 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-18 |octave 1 01 0000 | octave 1 00 0058 | octave 1 03 0000 | octave 1 00 0000 | 
-19 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-20 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-21 |octave 1 01 0000 | octave 1 00 0058 | octave 1 03 0000 | octave 1 00 0000 | 
-22 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-23 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-24 |octave 1 01 0000 | octave 1 00 0058 | octave 1 03 0000 | octave 1 00 0000 | 
-25 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-26 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-27 |octave 1 01 0000 | octave 1 00 0058 | octave 1 03 0000 | octave 1 00 0000 | 
-28 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-29 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-30 |octave 1 01 0000 | octave 1 00 0058 | octave 1 03 0000 | octave 1 00 0000 | 
-31 |octave 2 01 0000 | octave 1 00 0058 | octave 1 00 0400 | octave 1 00 0000 | 
-32 |octave 2 01 0000 | octave 1 00 0037 | octave 1 03 0000 | octave 1 00 0000 | 
-33 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-34 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-35 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-36 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-37 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-38 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-39 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-40 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-41 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-42 |octave 2 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-43 |octave 1 01 0000 | octave 1 00 0037 | octave 1 00 0400 | octave 1 00 0000 | 
-44 |octave 2 01 0000 | octave 1 00 0037 | octave 1 03 0000 | octave 1 00 0000 | 
-45 |octave 2 01 0000 | octave 1 00 0037 | octave 1 03 0000 | octave 1 00 0000 | 
-46 |octave 1 01 0000 | octave 1 00 0037 | octave 1 03 0000 | octave 1 00 0000 | 
-47 |octave 2 01 0000 | octave 1 00 0037 | octave 1 03 0000 | octave 1 00 0000 | 
-48 |octave 2 01 0000 | octave 1 04 0047 | octave 1 03 0000 | octave 1 00 0000 | 
-49 |octave 2 01 0000 | octave 1 00 0047 | octave 1 00 0400 | octave 1 00 0000 | 
-50 |octave 1 01 0000 | octave 1 00 0047 | octave 1 00 0400 | octave 1 00 0000 | 
-51 |octave 2 01 0000 | octave 1 00 0047 | octave 1 00 0400 | octave 1 00 0000 | 
-52 |octave 2 01 0000 | octave 1 00 0047 | octave 1 00 0400 | octave 1 00 0000 | 
-53 |octave 1 01 0000 | octave 1 00 0047 | octave 1 00 0400 | octave 1 00 0000 | 
-54 |octave 2 01 0000 | octave 1 00 0047 | octave 1 00 0400 | octave 1 00 0000 | 
-55 |octave 2 01 0000 | octave 1 00 0047 | octave 1 00 0400 | octave 1 00 0000 | 
-56 |octave 1 01 0000 | octave 1 00 0047 | octave 1 03 0000 | octave 1 00 0000 | 
-57 |octave 2 01 0000 | octave 1 00 0047 | octave 1 00 0400 | octave 1 00 0000 | 
-58 |octave 2 01 0000 | octave 1 00 0047 | octave 1 00 0400 | octave 1 00 0000 | 
-59 |octave 1 01 0000 | octave 1 00 0047 | octave 1 00 0400 | octave 1 00 0000 | 
-60 |octave 2 01 0000 | octave 1 00 0047 | octave 1 00 0400 | octave 1 00 0000 | 
-61 |octave 2 01 0000 | octave 1 00 0047 | octave 1 00 0400 | octave 1 00 0000 | 
-62 |octave 1 01 0000 | octave 1 00 0047 | octave 1 00 0400 | octave 1 00 0000 | 
-63 |octave 2 01 0000 | octave 1 00 0047 | octave 1 00 0400 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 2 01 0037 | octave 1 03 0000 | octave 1 0A 0F0C | octave 1 00 0000 | 
-01 |octave 2 01 0058 | octave 1 00 0481 | octave 1 00 0000 | octave 1 00 0000 | 
-02 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-03 |octave 2 01 0058 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-04 |octave 3 01 0037 | octave 1 00 0400 | octave 1 04 0037 | octave 1 00 0000 | 
-05 |octave 2 01 0058 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-06 |octave 3 01 0037 | octave 1 03 0000 | octave 2 04 0037 | octave 1 00 0000 | 
-07 |octave 2 01 0058 | octave 1 03 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-08 |octave 2 01 0037 | octave 1 03 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-09 |octave 2 01 0058 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-10 |octave 2 01 0037 | octave 1 03 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-11 |octave 2 01 0058 | octave 1 03 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-12 |octave 3 01 0037 | octave 1 03 0000 | octave 1 04 0037 | octave 1 00 0000 | 
-13 |octave 2 01 0058 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-14 |octave 3 01 0037 | octave 1 03 0000 | octave 2 04 0037 | octave 1 00 0000 | 
-15 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-16 |octave 1 01 005A | octave 1 03 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-17 |octave 2 01 0057 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-18 |octave 1 01 005A | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-19 |octave 2 01 0057 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-20 |octave 2 01 005A | octave 1 00 0400 | octave 1 04 0027 | octave 1 00 0000 | 
-21 |octave 2 01 0057 | octave 1 00 0400 | octave 1 00 0027 | octave 1 00 0000 | 
-22 |octave 2 01 005A | octave 1 00 0400 | octave 2 04 0027 | octave 1 00 0000 | 
-23 |octave 2 01 0057 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-24 |octave 1 01 005A | octave 1 03 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-25 |octave 2 01 0057 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-26 |octave 1 01 005A | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-27 |octave 2 01 0057 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-28 |octave 2 01 005A | octave 1 00 0400 | octave 1 04 0027 | octave 1 00 0000 | 
-29 |octave 2 01 0057 | octave 1 00 0400 | octave 1 00 0027 | octave 1 00 0000 | 
-30 |octave 2 01 005A | octave 1 03 0000 | octave 2 04 0027 | octave 1 00 0000 | 
-31 |octave 2 01 0057 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-32 |octave 1 01 0058 | octave 1 03 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-33 |octave 2 01 0037 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-34 |octave 1 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-35 |octave 2 01 0037 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-36 |octave 2 01 0058 | octave 1 00 0400 | octave 1 04 0049 | octave 1 00 0000 | 
-37 |octave 2 01 0037 | octave 1 00 0400 | octave 1 00 0049 | octave 1 00 0000 | 
-38 |octave 2 01 0058 | octave 1 03 0000 | octave 2 04 0049 | octave 1 00 0000 | 
-39 |octave 2 01 0037 | octave 1 03 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-40 |octave 1 01 0058 | octave 1 03 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-41 |octave 2 01 0037 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-42 |octave 1 01 0058 | octave 1 03 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-43 |octave 2 01 0037 | octave 1 03 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-44 |octave 2 01 0058 | octave 1 03 0000 | octave 1 04 0049 | octave 1 00 0000 | 
-45 |octave 2 01 0037 | octave 1 03 0000 | octave 1 00 0049 | octave 1 00 0000 | 
-46 |octave 2 01 0058 | octave 1 03 0000 | octave 2 04 0049 | octave 1 00 0000 | 
-47 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-48 |octave 2 01 0037 | octave 1 03 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-49 |octave 2 01 0058 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-50 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-51 |octave 2 01 0058 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-52 |octave 3 01 0037 | octave 1 00 0400 | octave 1 04 0037 | octave 1 00 0000 | 
-53 |octave 2 01 0058 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-54 |octave 3 01 0037 | octave 1 00 0400 | octave 2 04 0037 | octave 1 00 0000 | 
-55 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-56 |octave 2 01 0037 | octave 1 00 0A01 | octave 1 0A 0000 | octave 1 00 0000 | 
-57 |octave 2 01 0058 | octave 1 00 0A01 | octave 1 00 0000 | octave 1 00 0000 | 
-58 |octave 2 01 0037 | octave 1 00 0A01 | octave 1 0A 0000 | octave 1 00 0000 | 
-59 |octave 2 01 0058 | octave 1 00 0A01 | octave 1 00 0000 | octave 1 00 0000 | 
-60 |octave 3 01 0037 | octave 1 00 0A01 | octave 1 04 0037 | octave 1 00 0000 | 
-61 |octave 2 01 0058 | octave 1 00 0A01 | octave 1 00 0037 | octave 1 00 0000 | 
-62 |octave 3 01 0037 | octave 1 00 0A01 | octave 2 04 0037 | octave 1 00 0000 | 
-63 |octave 2 01 0058 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 1 01 0059 | octave 1 00 0000 | octave 1 0A 0F0C | octave 1 00 0000 | 
-01 |octave 2 01 0047 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-02 |octave 1 01 0059 | octave 1 03 0101 | octave 1 0A 0000 | octave 1 00 0000 | 
-03 |octave 2 01 0047 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-04 |octave 2 01 0059 | octave 1 00 0400 | octave 1 04 0038 | octave 1 00 0000 | 
-05 |octave 2 01 0047 | octave 1 03 0000 | octave 1 00 0038 | octave 1 00 0000 | 
-06 |octave 2 01 0059 | octave 1 00 0400 | octave 2 04 0038 | octave 1 00 0000 | 
-07 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-08 |octave 1 01 0059 | octave 1 03 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-09 |octave 2 01 0047 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-10 |octave 1 01 0059 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-11 |octave 2 01 0047 | octave 1 03 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-12 |octave 2 01 0059 | octave 1 00 0400 | octave 1 04 0038 | octave 1 00 0000 | 
-13 |octave 2 01 0047 | octave 1 00 0400 | octave 1 00 0038 | octave 1 00 0000 | 
-14 |octave 2 01 0059 | octave 1 03 0000 | octave 2 04 0038 | octave 1 00 0000 | 
-15 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-16 |octave 1 01 0037 | octave 1 00 0A08 | octave 1 0A 0000 | octave 1 00 0000 | 
-17 |octave 2 01 0049 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-18 |octave 1 01 0037 | octave 1 03 0101 | octave 1 0A 0000 | octave 1 00 0000 | 
-19 |octave 2 01 0049 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-20 |octave 2 01 0037 | octave 1 00 0400 | octave 1 04 0058 | octave 1 00 0000 | 
-21 |octave 2 01 0049 | octave 1 03 0000 | octave 1 00 0058 | octave 1 00 0000 | 
-22 |octave 2 01 0037 | octave 1 00 0400 | octave 2 04 0058 | octave 1 00 0000 | 
-23 |octave 2 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-24 |octave 1 01 0037 | octave 1 03 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-25 |octave 2 01 0049 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-26 |octave 1 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-27 |octave 2 01 0049 | octave 1 03 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-28 |octave 2 01 0037 | octave 1 00 0400 | octave 1 04 0058 | octave 1 00 0000 | 
-29 |octave 2 01 0049 | octave 1 00 0400 | octave 1 00 0058 | octave 1 00 0000 | 
-30 |octave 2 01 0037 | octave 1 03 0000 | octave 2 04 0058 | octave 1 00 0000 | 
-31 |octave 2 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-32 |octave 1 01 0049 | octave 1 03 0101 | octave 1 0A 0000 | octave 1 00 0000 | 
-33 |octave 2 01 0058 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-34 |octave 1 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-35 |octave 2 01 0058 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-36 |octave 2 01 0049 | octave 1 00 0400 | octave 1 04 0037 | octave 1 00 0000 | 
-37 |octave 2 01 0058 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-38 |octave 2 01 0049 | octave 1 00 0400 | octave 2 04 0037 | octave 1 00 0000 | 
-39 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-40 |octave 1 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-41 |octave 2 01 0058 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-42 |octave 1 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-43 |octave 2 01 0058 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-44 |octave 2 01 0049 | octave 1 03 0000 | octave 1 04 0037 | octave 1 00 0000 | 
-45 |octave 2 01 0058 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-46 |octave 2 01 0049 | octave 1 03 0000 | octave 2 04 0037 | octave 1 00 0000 | 
-47 |octave 2 01 0058 | octave 1 03 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-48 |octave 1 01 0059 | octave 1 03 0101 | octave 1 0A 0000 | octave 1 00 0000 | 
-49 |octave 2 01 0047 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-50 |octave 1 01 0059 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-51 |octave 2 01 0047 | octave 1 00 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-52 |octave 2 01 0059 | octave 1 00 0400 | octave 1 04 0047 | octave 1 00 0000 | 
-53 |octave 2 01 0047 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-54 |octave 2 01 0059 | octave 1 00 0400 | octave 2 04 0047 | octave 1 00 0000 | 
-55 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-56 |octave 1 01 0059 | octave 1 03 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-57 |octave 2 01 0047 | octave 1 03 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-58 |octave 1 01 0059 | octave 1 03 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-59 |octave 2 01 0047 | octave 1 03 0400 | octave 1 00 0000 | octave 1 00 0000 | 
-60 |octave 2 01 0059 | octave 1 03 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-61 |octave 2 01 0047 | octave 1 03 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-62 |octave 2 01 0059 | octave 1 03 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-63 |octave 2 01 0047 | octave 1 03 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 2 01 0037 | octave 2 0C 0483 | octave 1 0A 0F0C | octave 1 00 0000 | 
-01 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-02 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-03 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-04 |octave 3 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-05 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-06 |octave 3 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-07 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-08 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-09 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-10 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-11 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-12 |octave 3 01 0037 | octave 1 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-13 |octave 2 01 0058 | octave 1 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-14 |octave 3 01 0037 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-15 |octave 2 01 0058 | octave 1 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-16 |octave 1 01 005A | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-17 |octave 2 01 0057 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-18 |octave 1 01 005A | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-19 |octave 2 01 0057 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-20 |octave 2 01 005A | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-21 |octave 2 01 0057 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-22 |octave 2 01 005A | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-23 |octave 2 01 0057 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-24 |octave 1 01 005A | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-25 |octave 2 01 0057 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-26 |octave 1 01 005A | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-27 |octave 2 01 0057 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-28 |octave 2 01 005A | octave 1 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-29 |octave 2 01 0057 | octave 1 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-30 |octave 2 01 005A | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-31 |octave 2 01 0057 | octave 1 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-32 |octave 1 01 0058 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-33 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-34 |octave 1 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-35 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-36 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-37 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-38 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-39 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-40 |octave 1 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-41 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-42 |octave 1 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-43 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-44 |octave 2 01 0058 | octave 1 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-45 |octave 2 01 0037 | octave 1 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-46 |octave 2 01 0058 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-47 |octave 2 01 0037 | octave 1 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-48 |octave 2 01 0037 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-49 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-50 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-51 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-52 |octave 3 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-53 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-54 |octave 3 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-55 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-56 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-57 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-58 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-59 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-60 |octave 3 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-61 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-62 |octave 3 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-63 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 1 01 0059 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-01 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-02 |octave 1 01 0059 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-03 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-04 |octave 2 01 0059 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-05 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-06 |octave 2 01 0059 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-07 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-08 |octave 1 01 0059 | octave 1 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-09 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-10 |octave 1 01 0059 | octave 1 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-11 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-12 |octave 2 01 0059 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-13 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-14 |octave 2 01 0059 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-15 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-16 |octave 1 01 0037 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-17 |octave 2 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-18 |octave 1 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-19 |octave 2 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-20 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-21 |octave 2 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-22 |octave 2 01 0037 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-23 |octave 2 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-24 |octave 1 01 0037 | octave 1 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-25 |octave 2 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-26 |octave 1 01 0037 | octave 1 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-27 |octave 2 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-28 |octave 2 01 0037 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-29 |octave 2 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-30 |octave 2 01 0037 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-31 |octave 2 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-32 |octave 1 01 0049 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-33 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-34 |octave 1 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-35 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-36 |octave 2 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-37 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-38 |octave 2 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-39 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-40 |octave 1 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-41 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-42 |octave 1 01 0049 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-43 |octave 2 01 0058 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-44 |octave 2 01 0049 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-45 |octave 2 01 0058 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-46 |octave 2 01 0049 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-47 |octave 2 01 0058 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-48 |octave 1 01 0059 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-49 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-50 |octave 1 01 0059 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-51 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-52 |octave 2 01 0059 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-53 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-54 |octave 2 01 0059 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-55 |octave 2 01 0047 | octave 1 00 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-56 |octave 1 01 0059 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-57 |octave 2 01 0047 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-58 |octave 1 01 0059 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-59 |octave 2 01 0047 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-60 |octave 2 01 0059 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-61 |octave 2 01 0047 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-62 |octave 2 01 0059 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
-63 |octave 2 01 0047 | octave 2 0C 0400 | octave 1 0A 0000 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 3 01 0F0C | octave 3 0C 0000 | octave 1 0A 0F0C | octave 1 00 0000 | 
-01 |octave 2 01 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-02 |octave 2 01 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-03 |octave 2 01 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-04 |octave 1 01 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-05 |octave 2 01 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-06 |octave 1 01 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-07 |octave 1 01 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-08 |octave 1 01 0000 | octave 2 0C 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-09 |octave 1 01 0C20 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-10 |octave 1 01 0C10 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-11 |octave 1 01 0C08 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-12 |octave 1 01 0C04 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-13 |octave 1 01 0C02 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-14 |octave 1 01 0C01 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-15 |octave 1 00 0000 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-16 |octave 1 00 0000 | octave 2 0C 03F2 | octave 1 0A 0000 | octave 1 00 0000 | 
-17 |octave 1 00 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-18 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-19 |octave 2 07 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-20 |octave 2 07 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-21 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-22 |octave 2 07 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-23 |octave 2 07 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-24 |octave 2 02 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-25 |octave 2 02 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-26 |octave 2 02 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-27 |octave 2 02 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-28 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-29 |octave 2 07 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-30 |octave 2 07 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-31 |octave 2 07 0C08 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-32 |octave 2 07 0C04 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-33 |octave 2 07 0C02 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-34 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-35 |octave 2 07 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-36 |octave 2 07 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-37 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-38 |octave 2 07 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-39 |octave 2 07 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-40 |octave 2 02 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-41 |octave 2 02 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-42 |octave 2 02 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-43 |octave 2 02 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-44 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-45 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-46 |octave 2 07 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-47 |octave 2 07 0C10 | octave 1 00 0D00 | octave 1 0A 0000 | octave 1 00 0000 | 
-48 |octave 2 07 0C08 | octave 3 0C 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-49 |octave 2 07 0C04 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-50 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-51 |octave 2 07 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-52 |octave 2 07 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-53 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-54 |octave 2 07 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-55 |octave 2 07 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-56 |octave 2 02 0000 | octave 2 0C 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-57 |octave 2 02 0C20 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-58 |octave 2 02 0000 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-59 |octave 2 02 0C20 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-60 |octave 2 07 0000 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-61 |octave 2 07 0000 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-62 |octave 2 07 0000 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-63 |octave 2 07 0000 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 2 02 0000 | octave 3 0C 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-01 |octave 2 02 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-02 |octave 2 02 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-03 |octave 2 02 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-04 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-05 |octave 2 07 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-06 |octave 2 07 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-07 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-08 |octave 2 02 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-09 |octave 2 02 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-10 |octave 2 02 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-11 |octave 2 02 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-12 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-13 |octave 2 07 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-14 |octave 2 07 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-15 |octave 2 07 0C08 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-16 |octave 2 02 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-17 |octave 2 02 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-18 |octave 2 02 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-19 |octave 2 02 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-20 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-21 |octave 2 07 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-22 |octave 2 07 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-23 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-24 |octave 2 02 0000 | octave 2 0C 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-25 |octave 2 02 0C20 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-26 |octave 2 02 0000 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-27 |octave 2 02 0C20 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-28 |octave 2 07 0000 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-29 |octave 2 07 0C20 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-30 |octave 2 07 0C10 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-31 |octave 2 07 0C08 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-32 |octave 2 02 0000 | octave 2 0C 03F0 | octave 1 0A 0000 | octave 1 00 0000 | 
-33 |octave 2 02 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-34 |octave 2 02 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-35 |octave 2 02 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-36 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-37 |octave 2 07 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-38 |octave 2 07 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-39 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-40 |octave 2 02 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-41 |octave 2 02 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-42 |octave 2 02 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-43 |octave 2 02 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-44 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-45 |octave 2 07 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-46 |octave 2 07 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-47 |octave 2 07 0C08 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-48 |octave 2 02 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-49 |octave 2 02 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-50 |octave 2 02 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-51 |octave 2 02 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-52 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-53 |octave 2 07 0C20 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-54 |octave 2 07 0C10 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-55 |octave 2 07 0000 | octave 1 00 0000 | octave 1 0A 0000 | octave 1 00 0000 | 
-56 |octave 2 02 0000 | octave 3 0C 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-57 |octave 2 02 0C20 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-58 |octave 2 02 0000 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-59 |octave 2 02 0C20 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-60 |octave 2 07 0000 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-61 |octave 2 07 0C20 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-62 |octave 2 07 0C10 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
-63 |octave 2 07 0C08 | octave 1 00 0304 | octave 1 0A 0000 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 2 07 0000 | octave 3 0C 0A01 | octave 1 00 0000 | octave 1 00 0000 | 
-01 |octave 2 07 0C20 | octave 1 00 0A01 | octave 1 00 0000 | octave 1 00 0000 | 
-02 |octave 2 07 0C10 | octave 1 00 0A01 | octave 1 00 0000 | octave 1 00 0000 | 
-03 |octave 2 07 0C08 | octave 1 00 0A01 | octave 1 00 0000 | octave 1 00 0000 | 
-04 |octave 2 07 0C04 | octave 1 00 0A01 | octave 1 00 0000 | octave 1 00 0000 | 
-05 |octave 2 07 0C02 | octave 1 00 0A01 | octave 1 00 0000 | octave 1 00 0000 | 
-06 |octave 2 07 0C01 | octave 1 00 0A01 | octave 1 00 0000 | octave 1 00 0000 | 
-07 |octave 1 00 0C00 | octave 1 00 0A01 | octave 1 00 0000 | octave 1 00 0000 | 
-08 |octave 1 00 0C00 | octave 1 00 0A01 | octave 1 00 0000 | octave 1 00 0000 | 
-09 |octave 1 00 0000 | octave 1 00 0A01 | octave 1 00 0000 | octave 1 00 0000 | 
-10 |octave 2 07 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-11 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-12 |octave 2 07 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-13 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-14 |octave 2 02 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-15 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-16 |octave 2 07 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-17 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-18 |octave 2 07 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-19 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-20 |octave 2 02 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-21 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-22 |octave 2 07 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-23 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-24 |octave 2 07 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-25 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-26 |octave 2 02 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-27 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-28 |octave 2 07 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-29 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-30 |octave 2 07 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-31 |octave 1 00 0D00 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-32 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-33 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-34 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-35 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-36 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-37 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-38 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-39 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-40 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-41 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-42 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-43 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-44 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-45 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-46 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-47 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-48 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-49 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-50 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-51 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-52 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-53 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-54 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-55 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-56 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-57 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-58 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-59 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-60 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-61 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-62 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-63 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-01 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-02 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-03 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-04 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-05 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-06 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-07 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-08 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-09 |octave 1 00 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-10 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-11 |octave 1 00 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-12 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-13 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-14 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-15 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-16 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-17 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-18 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-19 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-20 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-21 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-22 |octave 2 07 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-23 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-24 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-25 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-26 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-27 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-28 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-29 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-30 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-31 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-32 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-33 |octave 1 00 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-34 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-35 |octave 1 00 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-36 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-37 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-38 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-39 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-40 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-41 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-42 |octave 2 02 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-43 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-44 |octave 2 07 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-45 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-46 |octave 2 07 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-47 |octave 1 00 0D00 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-48 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-49 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-50 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-51 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-52 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-53 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-54 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-55 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-56 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-57 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-58 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-59 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-60 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-61 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-62 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-63 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-01 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-02 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-03 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-04 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-05 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-06 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-07 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-08 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-09 |octave 1 00 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-10 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-11 |octave 1 00 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-12 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-13 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-14 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-15 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-16 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-17 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-18 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-19 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-20 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-21 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-22 |octave 2 07 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-23 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-24 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-25 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-26 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-27 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-28 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-29 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-30 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-31 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-32 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-33 |octave 1 00 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-34 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-35 |octave 1 00 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-36 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-37 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-38 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-39 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-40 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-41 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-42 |octave 2 02 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-43 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-44 |octave 2 07 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-45 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-46 |octave 2 07 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-47 |octave 1 00 0D00 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-48 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-49 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-50 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-51 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-52 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-53 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-54 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-55 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-56 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-57 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-58 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-59 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-60 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-61 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-62 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-63 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-01 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-02 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-03 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-04 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-05 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-06 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-07 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-08 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-09 |octave 1 00 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-10 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-11 |octave 1 00 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-12 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-13 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-14 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-15 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-16 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-17 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-18 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-19 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-20 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-21 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-22 |octave 2 07 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-23 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-24 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-25 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-26 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-27 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-28 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-29 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-30 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-31 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-32 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-33 |octave 1 00 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-34 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-35 |octave 1 00 0000 | octave 2 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-36 |octave 2 02 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-37 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-38 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-39 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-40 |octave 2 07 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-41 |octave 1 00 0000 | octave 1 0B 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-42 |octave 2 02 0000 | octave 1 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-43 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-44 |octave 2 07 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-45 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-46 |octave 2 07 0000 | octave 2 0B 0A02 | octave 1 0B 0000 | octave 1 00 0000 | 
-47 |octave 1 00 0D00 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-48 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-49 |octave 1 00 0000 | octave 1 00 0A02 | octave 1 00 0000 | octave 1 00 0000 | 
-50 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-51 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-52 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-53 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-54 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-55 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-56 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-57 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-58 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-59 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-60 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-61 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-62 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-63 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 2 02 0000 | octave 2 0B 0000 | octave 1 0B 0000 | octave 1 00 0000 | 
-01 |octave 1 00 0000 | octave 1 00 0A01 | octave 1 00 0A01 | octave 1 00 0000 | 
-02 |octave 2 07 0000 | octave 1 00 0A01 | octave 1 00 0A01 | octave 1 00 0000 | 
-03 |octave 1 00 0000 | octave 1 00 0A01 | octave 1 00 0A01 | octave 1 00 0000 | 
-04 |octave 2 07 0000 | octave 1 00 0A01 | octave 1 00 0A01 | octave 1 00 0000 | 
-05 |octave 1 00 0000 | octave 1 00 0A01 | octave 1 00 0A01 | octave 1 00 0000 | 
-06 |octave 2 02 0000 | octave 1 00 0A01 | octave 1 00 0A01 | octave 1 00 0000 | 
-07 |octave 1 00 0000 | octave 1 00 0A01 | octave 1 00 0A01 | octave 1 00 0000 | 
-08 |octave 2 07 0000 | octave 1 00 0A01 | octave 1 00 0A01 | octave 1 00 0000 | 
-09 |octave 1 00 0000 | octave 1 00 0A01 | octave 1 00 0A01 | octave 1 00 0000 | 
-10 |octave 2 07 0000 | octave 1 00 0A00 | octave 1 00 0A01 | octave 1 00 0000 | 
-11 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0A01 | octave 1 00 0000 | 
-12 |octave 2 02 0000 | octave 1 00 0000 | octave 1 00 0A01 | octave 1 00 0000 | 
-13 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0001 | octave 1 00 0000 | 
-14 |octave 2 07 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-15 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-16 |octave 2 07 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-17 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-18 |octave 2 07 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-19 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-20 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-21 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-22 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-23 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-24 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-25 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-26 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-27 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-28 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-29 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-30 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-31 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0000 | 
-32 |octave 1 00 0000 | octave 1 00 0000 | octave 2 04 0037 | octave 1 00 0000 | 
-33 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-34 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-35 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-36 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-37 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-38 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-39 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-40 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-41 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-42 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-43 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-44 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-45 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-46 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-47 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-48 |octave 1 00 0000 | octave 1 00 0000 | octave 2 04 0047 | octave 1 00 0000 | 
-49 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-50 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-51 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-52 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-53 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-54 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-55 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-56 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-57 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-58 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-59 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-60 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-61 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-62 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-63 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 2 04 0C20 | octave 1 00 0000 | octave 2 04 0037 | octave 1 00 0000 | 
-01 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-02 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-03 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-04 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-05 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-06 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-07 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-08 |octave 2 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-09 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-10 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-11 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-12 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-13 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-14 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-15 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-16 |octave 2 00 0000 | octave 1 00 0000 | octave 2 04 0047 | octave 1 00 0000 | 
-17 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-18 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-19 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-20 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-21 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-22 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-23 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-24 |octave 2 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-25 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-26 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-27 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-28 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-29 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-30 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-31 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-32 |octave 2 00 0000 | octave 1 00 0000 | octave 2 04 0037 | octave 1 00 0000 | 
-33 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-34 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-35 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-36 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-37 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-38 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-39 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-40 |octave 2 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-41 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-42 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-43 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-44 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-45 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-46 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-47 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-48 |octave 2 00 0000 | octave 1 00 0000 | octave 2 04 0047 | octave 1 00 0000 | 
-49 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-50 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-51 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-52 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-53 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-54 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-55 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-56 |octave 2 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-57 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-58 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-59 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-60 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-61 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-62 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-63 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 2 00 0C20 | octave 1 03 0000 | octave 2 04 0037 | octave 1 00 0000 | 
-01 |octave 1 00 0000 | octave 1 00 0481 | octave 1 00 0037 | octave 1 00 0000 | 
-02 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-03 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-04 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-05 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-06 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-07 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-08 |octave 2 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-09 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-10 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-11 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-12 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-13 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-14 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-15 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-16 |octave 2 00 0000 | octave 1 03 0000 | octave 2 04 0047 | octave 1 00 0000 | 
-17 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-18 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-19 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-20 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-21 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-22 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-23 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-24 |octave 2 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-25 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-26 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-27 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-28 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-29 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-30 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-31 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-32 |octave 2 00 0000 | octave 1 03 0000 | octave 2 04 0037 | octave 1 00 0000 | 
-33 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-34 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-35 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-36 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-37 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-38 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-39 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-40 |octave 2 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-41 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-42 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-43 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-44 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-45 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-46 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-47 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-48 |octave 2 00 0000 | octave 1 03 0000 | octave 2 04 0047 | octave 1 00 0000 | 
-49 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-50 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-51 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-52 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-53 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-54 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-55 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-56 |octave 2 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-57 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-58 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-59 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-60 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-61 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-62 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-63 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 2 00 0C20 | octave 1 03 0000 | octave 2 04 0037 | octave 1 00 0000 | 
-01 |octave 1 00 0000 | octave 1 00 0481 | octave 1 00 0037 | octave 1 00 0000 | 
-02 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-03 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-04 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-05 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-06 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-07 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-08 |octave 2 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-09 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-10 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-11 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-12 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-13 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-14 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-15 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-16 |octave 2 00 0000 | octave 1 03 0000 | octave 2 04 0047 | octave 1 00 0000 | 
-17 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-18 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-19 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-20 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-21 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-22 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-23 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-24 |octave 2 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-25 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-26 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-27 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-28 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-29 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-30 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-31 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-32 |octave 2 00 0000 | octave 1 03 0000 | octave 2 04 0037 | octave 1 00 0000 | 
-33 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-34 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-35 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-36 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-37 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-38 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-39 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-40 |octave 2 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-41 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-42 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-43 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-44 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-45 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-46 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-47 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0037 | octave 1 00 0000 | 
-48 |octave 2 00 0000 | octave 1 03 0000 | octave 2 04 0047 | octave 1 00 0000 | 
-49 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-50 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-51 |octave 1 00 0000 | octave 1 03 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-52 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-53 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-54 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-55 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-56 |octave 2 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-57 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-58 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-59 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-60 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-61 |octave 1 00 0000 | octave 1 00 0400 | octave 1 00 0047 | octave 1 00 0000 | 
-62 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-63 |octave 1 00 0000 | octave 1 00 0000 | octave 1 00 0047 | octave 1 00 0000 | 
---------------------------------------------------------------
-00 |octave 2 01 0000 | octave 1 03 0000 | octave 2 04 0037 | octave 1 00 0000 | 
-01 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-02 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-03 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-04 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-05 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-06 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-07 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-08 |octave 2 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-09 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-10 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-11 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-12 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-13 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-14 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-15 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-16 |octave 2 00 0000 | octave 1 03 0000 | octave 2 04 0047 | octave 1 00 0000 | 
-17 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-18 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-19 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-20 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-21 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-22 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-23 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-24 |octave 2 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-25 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-26 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-27 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-28 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-29 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-30 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-31 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-32 |octave 2 00 0000 | octave 1 03 0000 | octave 2 04 0037 | octave 1 00 0000 | 
-33 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-34 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-35 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-36 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-37 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-38 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-39 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-40 |octave 2 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-41 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-42 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-43 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-44 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-45 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-46 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-47 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0037 | octave 1 00 0000 | 
-48 |octave 2 00 0000 | octave 1 03 0000 | octave 2 04 0047 | octave 1 00 0000 | 
-49 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-50 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-51 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-52 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-53 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-54 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-55 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-56 |octave 2 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-57 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-58 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-59 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-60 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-61 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-62 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
-63 |octave 1 00 0000 | octave 1 03 0000 | octave 1 00 0047 | octave 1 00 0000 | 
---------------------------------------------------------------
+----------------------------------------------------------
+00 | F#1 01 F0C |  B-1 04 037 |  B-1 03 000 |  --- 00 000 | 
+01 | B-1 01 000 |  --- 00 037 |  --- 00 483 |  --- 00 000 | 
+02 | D-2 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+03 | F#1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+04 | B-1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+05 | D-2 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+06 | F#1 01 000 |  --- 00 037 |  C#2 03 000 |  --- 00 000 | 
+07 | B-1 01 000 |  --- 00 037 |  D-2 03 000 |  --- 00 000 | 
+08 | D-2 01 000 |  --- 00 037 |  D-2 03 104 |  --- 00 000 | 
+09 | F#1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+10 | B-1 01 000 |  --- 00 037 |  D-2 03 000 |  --- 00 000 | 
+11 | D-2 01 000 |  --- 00 037 |  C#2 03 000 |  --- 00 000 | 
+12 | F#1 01 000 |  --- 00 037 |  D-2 03 000 |  --- 00 000 | 
+13 | B-1 01 000 |  --- 00 037 |  C#2 03 000 |  --- 00 000 | 
+14 | D-2 01 000 |  --- 00 037 |  B-1 03 000 |  --- 00 000 | 
+15 | F#1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+16 | F#1 01 000 |  B-1 04 027 |  C#2 03 000 |  --- 00 000 | 
+17 | B-1 01 000 |  --- 00 027 |  --- 00 400 |  --- 00 000 | 
+18 | C#2 01 000 |  --- 00 027 |  --- 00 400 |  --- 00 000 | 
+19 | F#1 01 000 |  --- 00 027 |  --- 00 400 |  --- 00 000 | 
+20 | B-1 01 000 |  --- 00 027 |  --- 00 400 |  --- 00 000 | 
+21 | C#2 01 000 |  --- 00 027 |  --- 00 400 |  --- 00 000 | 
+22 | F#1 01 000 |  --- 00 027 |  --- 00 400 |  --- 00 000 | 
+23 | B-1 01 000 |  --- 00 027 |  --- 00 400 |  --- 00 000 | 
+24 | C#2 01 000 |  --- 00 027 |  A-1 03 000 |  --- 00 000 | 
+25 | F#1 01 000 |  --- 00 027 |  --- 00 400 |  --- 00 000 | 
+26 | B-1 01 000 |  --- 00 027 |  --- 00 400 |  --- 00 000 | 
+27 | C#2 01 000 |  --- 00 027 |  --- 00 400 |  --- 00 000 | 
+28 | F#1 01 000 |  --- 00 027 |  --- 00 400 |  --- 00 000 | 
+29 | B-1 01 000 |  --- 00 027 |  --- 00 400 |  --- 00 000 | 
+30 | C#2 01 000 |  --- 00 027 |  F#1 03 000 |  --- 00 000 | 
+31 | F#1 01 000 |  --- 00 027 |  --- 00 400 |  --- 00 000 | 
+32 | F#1 01 000 |  A-1 04 049 |  A-1 03 000 |  --- 00 000 | 
+33 | A-1 01 000 |  --- 00 049 |  --- 00 400 |  --- 00 000 | 
+34 | C#2 01 000 |  --- 00 049 |  --- 00 400 |  --- 00 000 | 
+35 | F#1 01 000 |  --- 00 049 |  --- 00 400 |  --- 00 000 | 
+36 | A-1 01 000 |  --- 00 049 |  --- 00 400 |  --- 00 000 | 
+37 | C#2 01 000 |  --- 00 049 |  --- 00 400 |  --- 00 000 | 
+38 | F#1 01 000 |  --- 00 049 |  B-1 03 000 |  --- 00 000 | 
+39 | A-1 01 000 |  --- 00 049 |  C#2 03 000 |  --- 00 000 | 
+40 | C#2 01 000 |  --- 00 049 |  D-2 03 000 |  --- 00 000 | 
+41 | F#1 01 000 |  --- 00 049 |  --- 00 400 |  --- 00 000 | 
+42 | A-1 01 000 |  --- 00 049 |  C#2 03 000 |  --- 00 000 | 
+43 | C#2 01 000 |  --- 00 049 |  B-1 03 000 |  --- 00 000 | 
+44 | F#1 01 000 |  --- 00 049 |  C#2 03 000 |  --- 00 000 | 
+45 | A-1 01 000 |  --- 00 049 |  B-1 03 000 |  --- 00 000 | 
+46 | C#2 01 000 |  --- 00 049 |  A-1 03 000 |  --- 00 000 | 
+47 | A-1 01 000 |  --- 00 049 |  --- 00 400 |  --- 00 000 | 
+48 | F#1 01 000 |  B-1 04 037 |  B-1 03 000 |  --- 00 000 | 
+49 | B-1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+50 | D-2 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+51 | F#1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+52 | B-1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+53 | D-2 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+54 | F#1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+55 | B-1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+56 | D-2 01 000 |  --- 00 037 |  --- 00 A01 |  --- 00 000 | 
+57 | F#1 01 000 |  --- 00 037 |  --- 00 A01 |  --- 00 000 | 
+58 | B-1 01 000 |  --- 00 037 |  --- 00 A01 |  --- 00 000 | 
+59 | D-2 01 000 |  --- 00 037 |  --- 00 A01 |  --- 00 000 | 
+60 | F#1 01 000 |  --- 00 037 |  --- 00 A01 |  --- 00 000 | 
+61 | B-1 01 000 |  --- 00 037 |  --- 00 A01 |  --- 00 000 | 
+62 | D-2 01 000 |  --- 00 037 |  --- 00 A01 |  --- 00 000 | 
+63 | F#1 01 000 |  --- 00 037 |  --- 00 000 |  --- 00 000 | 
+----------------------------------------------------------
+00 | G-1 01 000 |  B-1 04 038 |  --- 00 000 |  --- 00 000 | 
+01 | B-1 01 000 |  --- 00 038 |  --- 00 000 |  --- 00 000 | 
+02 | D-2 01 000 |  --- 00 038 |  D-2 03 000 |  --- 00 000 | 
+03 | G-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+04 | B-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+05 | D-2 01 000 |  --- 00 038 |  C#2 03 000 |  --- 00 000 | 
+06 | G-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+07 | B-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+08 | D-2 01 000 |  --- 00 038 |  E-2 03 000 |  --- 00 000 | 
+09 | G-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+10 | B-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+11 | D-2 01 000 |  --- 00 038 |  D-2 03 000 |  --- 00 000 | 
+12 | G-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+13 | B-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+14 | D-2 01 000 |  --- 00 038 |  C#2 03 000 |  --- 00 000 | 
+15 | G-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+16 | G-1 01 000 |  --- 00 058 |  --- 00 A08 |  --- 00 000 | 
+17 | B-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+18 | E-2 01 000 |  --- 00 058 |  D-2 03 000 |  --- 00 000 | 
+19 | G-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+20 | B-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+21 | E-2 01 000 |  --- 00 058 |  C#2 03 000 |  --- 00 000 | 
+22 | G-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+23 | B-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+24 | E-2 01 000 |  --- 00 058 |  E-2 03 000 |  --- 00 000 | 
+25 | G-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+26 | B-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+27 | E-2 01 000 |  --- 00 058 |  D-2 03 000 |  --- 00 000 | 
+28 | G-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+29 | B-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+30 | E-2 01 000 |  --- 00 058 |  E-2 03 000 |  --- 00 000 | 
+31 | G-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+32 | F#1 01 000 |  --- 00 037 |  F#2 03 000 |  --- 00 000 | 
+33 | B-1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+34 | D-2 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+35 | F#1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+36 | B-1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+37 | D-2 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+38 | F#1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+39 | B-1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+40 | D-2 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+41 | F#1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+42 | B-1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+43 | D-2 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+44 | F#1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+45 | B-1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+46 | D-2 01 000 |  --- 00 037 |  E-2 03 000 |  --- 00 000 | 
+47 | F#1 01 000 |  --- 00 037 |  D-2 03 000 |  --- 00 000 | 
+48 | F#1 01 000 |  C#2 04 059 |  C#2 03 000 |  --- 00 000 | 
+49 | A#1 01 000 |  --- 00 059 |  --- 00 400 |  --- 00 000 | 
+50 | C#2 01 000 |  --- 00 059 |  --- 00 400 |  --- 00 000 | 
+51 | F#1 01 000 |  --- 00 059 |  --- 00 400 |  --- 00 000 | 
+52 | A#1 01 000 |  --- 00 059 |  --- 00 400 |  --- 00 000 | 
+53 | C#2 01 000 |  --- 00 059 |  --- 00 400 |  --- 00 000 | 
+54 | F#1 01 000 |  --- 00 059 |  --- 00 400 |  --- 00 000 | 
+55 | A#1 01 000 |  --- 00 059 |  --- 00 400 |  --- 00 000 | 
+56 | C#2 01 000 |  --- 00 059 |  A#2 03 000 |  --- 00 000 | 
+57 | F#1 01 000 |  --- 00 059 |  F#2 03 000 |  --- 00 000 | 
+58 | A#1 01 000 |  --- 00 059 |  C#2 03 000 |  --- 00 000 | 
+59 | C#2 01 000 |  --- 00 059 |  A#1 03 000 |  --- 00 000 | 
+60 | F#1 01 000 |  --- 00 059 |  F#1 03 000 |  --- 00 000 | 
+61 | A#1 01 000 |  --- 00 059 |  C#1 03 000 |  --- 00 000 | 
+62 | C#2 01 000 |  --- 00 059 |  F#1 03 000 |  --- 00 000 | 
+63 | A#1 01 000 |  --- 00 059 |  A#1 03 000 |  --- 00 000 | 
+----------------------------------------------------------
+00 | G-1 01 000 |  B-1 04 038 |  --- 00 000 |  --- 00 000 | 
+01 | B-1 01 000 |  --- 00 038 |  --- 00 000 |  --- 00 000 | 
+02 | D-2 01 000 |  --- 00 038 |  D-2 03 000 |  --- 00 000 | 
+03 | G-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+04 | B-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+05 | D-2 01 000 |  --- 00 038 |  C#2 03 000 |  --- 00 000 | 
+06 | G-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+07 | B-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+08 | D-2 01 000 |  --- 00 038 |  E-2 03 000 |  --- 00 000 | 
+09 | G-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+10 | B-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+11 | D-2 01 000 |  --- 00 038 |  D-2 03 000 |  --- 00 000 | 
+12 | G-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+13 | B-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+14 | D-2 01 000 |  --- 00 038 |  C#2 03 000 |  --- 00 000 | 
+15 | G-1 01 000 |  --- 00 038 |  --- 00 400 |  --- 00 000 | 
+16 | G-1 01 000 |  --- 00 058 |  --- 00 A08 |  --- 00 000 | 
+17 | B-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+18 | E-2 01 000 |  --- 00 058 |  D-2 03 000 |  --- 00 000 | 
+19 | G-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+20 | B-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+21 | E-2 01 000 |  --- 00 058 |  C#2 03 000 |  --- 00 000 | 
+22 | G-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+23 | B-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+24 | E-2 01 000 |  --- 00 058 |  E-2 03 000 |  --- 00 000 | 
+25 | G-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+26 | B-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+27 | E-2 01 000 |  --- 00 058 |  F#2 03 000 |  --- 00 000 | 
+28 | G-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+29 | B-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+30 | E-2 01 000 |  --- 00 058 |  G-2 03 000 |  --- 00 000 | 
+31 | G-1 01 000 |  --- 00 058 |  --- 00 400 |  --- 00 000 | 
+32 | F#1 01 000 |  --- 00 037 |  F#2 03 000 |  --- 00 000 | 
+33 | B-1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+34 | D-2 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+35 | F#1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+36 | B-1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+37 | D-2 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+38 | F#1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+39 | B-1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+40 | D-2 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+41 | F#1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+42 | B-1 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+43 | D-2 01 000 |  --- 00 037 |  --- 00 400 |  --- 00 000 | 
+44 | F#1 01 000 |  --- 00 037 |  F#2 03 000 |  --- 00 000 | 
+45 | B-1 01 000 |  --- 00 037 |  G-2 03 000 |  --- 00 000 | 
+46 | D-2 01 000 |  --- 00 037 |  F#2 03 000 |  --- 00 000 | 
+47 | F#1 01 000 |  --- 00 037 |  E-2 03 000 |  --- 00 000 | 
+48 | F#1 01 000 |  F#2 04 047 |  F#2 03 000 |  --- 00 000 | 
+49 | A#1 01 000 |  --- 00 047 |  --- 00 400 |  --- 00 000 | 
+50 | C#2 01 000 |  --- 00 047 |  --- 00 400 |  --- 00 000 | 
+51 | F#1 01 000 |  --- 00 047 |  --- 00 400 |  --- 00 000 | 
+52 | A#1 01 000 |  --- 00 047 |  --- 00 400 |  --- 00 000 | 
+53 | C#2 01 000 |  --- 00 047 |  --- 00 400 |  --- 00 000 | 
+54 | F#1 01 000 |  --- 00 047 |  --- 00 400 |  --- 00 000 | 
+55 | A#1 01 000 |  --- 00 047 |  --- 00 400 |  --- 00 000 | 
+56 | C#2 01 000 |  --- 00 047 |  A#2 03 000 |  --- 00 000 | 
+57 | F#1 01 000 |  --- 00 047 |  --- 00 400 |  --- 00 000 | 
+58 | A#1 01 000 |  --- 00 047 |  --- 00 400 |  --- 00 000 | 
+59 | C#2 01 000 |  --- 00 047 |  --- 00 400 |  --- 00 000 | 
+60 | F#1 01 000 |  --- 00 047 |  --- 00 400 |  --- 00 000 | 
+61 | A#1 01 000 |  --- 00 047 |  --- 00 400 |  --- 00 000 | 
+62 | C#2 01 000 |  --- 00 047 |  --- 00 400 |  --- 00 000 | 
+63 | A#1 01 000 |  --- 00 047 |  --- 00 400 |  --- 00 000 | 
+----------------------------------------------------------
+00 | B-1 01 037 |  B-2 03 000 |  F-2 0A F0C |  --- 00 000 | 
+01 | F#1 01 058 |  --- 00 481 |  --- 00 000 |  --- 00 000 | 
+02 | B-1 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+03 | F#1 01 058 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+04 | B-0 01 037 |  --- 00 400 |  B-2 04 037 |  --- 00 000 | 
+05 | F#1 01 058 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+06 | B-0 01 037 |  C#3 03 000 |  B-1 04 037 |  --- 00 000 | 
+07 | F#1 01 058 |  D-3 03 000 |  F-2 0A 000 |  --- 00 000 | 
+08 | B-1 01 037 |  E-3 03 000 |  F-2 0A 000 |  --- 00 000 | 
+09 | F#1 01 058 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+10 | B-1 01 037 |  D-3 03 000 |  F-2 0A 000 |  --- 00 000 | 
+11 | F#1 01 058 |  C#3 03 000 |  --- 00 000 |  --- 00 000 | 
+12 | B-0 01 037 |  D-3 03 000 |  B-2 04 037 |  --- 00 000 | 
+13 | F#1 01 058 |  C#3 03 000 |  --- 00 037 |  --- 00 000 | 
+14 | B-0 01 037 |  B-2 03 000 |  B-1 04 037 |  --- 00 000 | 
+15 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+16 | C#2 01 05A |  C#3 03 000 |  D#2 0A 000 |  --- 00 000 | 
+17 | F#1 01 057 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+18 | C#2 01 05A |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+19 | F#1 01 057 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+20 | C#1 01 05A |  --- 00 400 |  B-2 04 027 |  --- 00 000 | 
+21 | F#1 01 057 |  --- 00 400 |  --- 00 027 |  --- 00 000 | 
+22 | C#1 01 05A |  --- 00 400 |  B-1 04 027 |  --- 00 000 | 
+23 | F#1 01 057 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+24 | C#2 01 05A |  A-2 03 000 |  D#2 0A 000 |  --- 00 000 | 
+25 | F#1 01 057 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+26 | C#2 01 05A |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+27 | F#1 01 057 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+28 | C#1 01 05A |  --- 00 400 |  B-2 04 027 |  --- 00 000 | 
+29 | F#1 01 057 |  --- 00 400 |  --- 00 027 |  --- 00 000 | 
+30 | C#1 01 05A |  F#2 03 000 |  B-1 04 027 |  --- 00 000 | 
+31 | F#1 01 057 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+32 | C#2 01 058 |  A-2 03 000 |  D#2 0A 000 |  --- 00 000 | 
+33 | F#1 01 037 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+34 | C#2 01 058 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+35 | F#1 01 037 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+36 | C#1 01 058 |  --- 00 400 |  A-2 04 049 |  --- 00 000 | 
+37 | F#1 01 037 |  --- 00 400 |  --- 00 049 |  --- 00 000 | 
+38 | C#1 01 058 |  B-2 03 000 |  A-1 04 049 |  --- 00 000 | 
+39 | F#1 01 037 |  C#3 03 000 |  D#2 0A 000 |  --- 00 000 | 
+40 | C#2 01 058 |  D-3 03 000 |  D#2 0A 000 |  --- 00 000 | 
+41 | F#1 01 037 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+42 | C#2 01 058 |  C#3 03 000 |  D#2 0A 000 |  --- 00 000 | 
+43 | F#1 01 037 |  B-2 03 000 |  --- 00 000 |  --- 00 000 | 
+44 | C#1 01 058 |  C#3 03 000 |  A-2 04 049 |  --- 00 000 | 
+45 | F#1 01 037 |  B-2 03 000 |  --- 00 049 |  --- 00 000 | 
+46 | C#1 01 058 |  A-2 03 000 |  A-1 04 049 |  --- 00 000 | 
+47 | F#1 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+48 | B-1 01 037 |  B-2 03 000 |  F-2 0A 000 |  --- 00 000 | 
+49 | F#1 01 058 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+50 | B-1 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+51 | F#1 01 058 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+52 | B-0 01 037 |  --- 00 400 |  B-2 04 037 |  --- 00 000 | 
+53 | F#1 01 058 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+54 | B-0 01 037 |  --- 00 400 |  B-1 04 037 |  --- 00 000 | 
+55 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+56 | B-1 01 037 |  --- 00 A01 |  F-2 0A 000 |  --- 00 000 | 
+57 | F#1 01 058 |  --- 00 A01 |  --- 00 000 |  --- 00 000 | 
+58 | B-1 01 037 |  --- 00 A01 |  F-2 0A 000 |  --- 00 000 | 
+59 | F#1 01 058 |  --- 00 A01 |  --- 00 000 |  --- 00 000 | 
+60 | B-0 01 037 |  --- 00 A01 |  B-2 04 037 |  --- 00 000 | 
+61 | F#1 01 058 |  --- 00 A01 |  --- 00 037 |  --- 00 000 | 
+62 | B-0 01 037 |  --- 00 A01 |  B-1 04 037 |  --- 00 000 | 
+63 | F#1 01 058 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+----------------------------------------------------------
+00 | D-2 01 059 |  --- 00 000 |  C#2 0A F0C |  --- 00 000 | 
+01 | G-1 01 047 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+02 | D-2 01 059 |  C#3 03 101 |  C#2 0A 000 |  --- 00 000 | 
+03 | G-1 01 047 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+04 | D-1 01 059 |  --- 00 400 |  B-2 04 038 |  --- 00 000 | 
+05 | G-1 01 047 |  C#3 03 000 |  --- 00 038 |  --- 00 000 | 
+06 | D-1 01 059 |  --- 00 400 |  B-1 04 038 |  --- 00 000 | 
+07 | G-1 01 047 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+08 | D-2 01 059 |  E-3 03 000 |  C#2 0A 000 |  --- 00 000 | 
+09 | G-1 01 047 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+10 | D-2 01 059 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+11 | G-1 01 047 |  D-3 03 000 |  --- 00 000 |  --- 00 000 | 
+12 | D-1 01 059 |  --- 00 400 |  B-2 04 038 |  --- 00 000 | 
+13 | G-1 01 047 |  --- 00 400 |  --- 00 038 |  --- 00 000 | 
+14 | D-1 01 059 |  C#3 03 000 |  B-1 04 038 |  --- 00 000 | 
+15 | G-1 01 047 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+16 | E-2 01 037 |  --- 00 A08 |  C#2 0A 000 |  --- 00 000 | 
+17 | G-1 01 049 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+18 | E-2 01 037 |  C#3 03 101 |  C#2 0A 000 |  --- 00 000 | 
+19 | G-1 01 049 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+20 | E-1 01 037 |  --- 00 400 |  B-2 04 058 |  --- 00 000 | 
+21 | G-1 01 049 |  C#3 03 000 |  --- 00 058 |  --- 00 000 | 
+22 | E-1 01 037 |  --- 00 400 |  B-1 04 058 |  --- 00 000 | 
+23 | G-1 01 049 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+24 | E-2 01 037 |  E-3 03 000 |  C#2 0A 000 |  --- 00 000 | 
+25 | G-1 01 049 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+26 | E-2 01 037 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+27 | G-1 01 049 |  F#3 03 000 |  --- 00 000 |  --- 00 000 | 
+28 | E-1 01 037 |  --- 00 400 |  B-2 04 058 |  --- 00 000 | 
+29 | G-1 01 049 |  --- 00 400 |  --- 00 058 |  --- 00 000 | 
+30 | E-1 01 037 |  G-3 03 000 |  B-1 04 058 |  --- 00 000 | 
+31 | G-1 01 049 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+32 | D-2 01 049 |  F-3 03 101 |  C-3 0A 000 |  --- 00 000 | 
+33 | F#1 01 058 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+34 | D-2 01 049 |  --- 00 400 |  C-3 0A 000 |  --- 00 000 | 
+35 | F#1 01 058 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+36 | D-1 01 049 |  --- 00 400 |  B-2 04 037 |  --- 00 000 | 
+37 | F#1 01 058 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+38 | D-1 01 049 |  --- 00 400 |  B-1 04 037 |  --- 00 000 | 
+39 | F#1 01 058 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+40 | D-2 01 049 |  --- 00 400 |  C-3 0A 000 |  --- 00 000 | 
+41 | F#1 01 058 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+42 | D-2 01 049 |  --- 00 400 |  C-3 0A 000 |  --- 00 000 | 
+43 | F#1 01 058 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+44 | D-1 01 049 |  F#3 03 000 |  B-2 04 037 |  --- 00 000 | 
+45 | F#1 01 058 |  G-3 03 000 |  --- 00 037 |  --- 00 000 | 
+46 | D-1 01 049 |  F#3 03 000 |  B-1 04 037 |  --- 00 000 | 
+47 | F#1 01 058 |  E-3 03 000 |  C-2 0A 000 |  --- 00 000 | 
+48 | C#2 01 059 |  F-3 03 101 |  C-3 0A 000 |  --- 00 000 | 
+49 | F#1 01 047 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+50 | C#2 01 059 |  --- 00 400 |  C-3 0A 000 |  --- 00 000 | 
+51 | F#1 01 047 |  --- 00 400 |  --- 00 000 |  --- 00 000 | 
+52 | C#1 01 059 |  --- 00 400 |  F#2 04 047 |  --- 00 000 | 
+53 | F#1 01 047 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+54 | C#1 01 059 |  --- 00 400 |  F#1 04 047 |  --- 00 000 | 
+55 | F#1 01 047 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+56 | C#2 01 059 |  E-3 03 000 |  C-3 0A 000 |  --- 00 000 | 
+57 | F#1 01 047 |  D-3 03 400 |  --- 00 000 |  --- 00 000 | 
+58 | C#2 01 059 |  C#3 03 400 |  C-3 0A 000 |  --- 00 000 | 
+59 | F#1 01 047 |  B-2 03 400 |  --- 00 000 |  --- 00 000 | 
+60 | C#1 01 059 |  C#3 03 400 |  C-3 0A 000 |  --- 00 000 | 
+61 | F#1 01 047 |  B-2 03 400 |  C-3 0A 000 |  --- 00 000 | 
+62 | C#1 01 059 |  A#2 03 400 |  C-3 0A 000 |  --- 00 000 | 
+63 | F#1 01 047 |  F#2 03 400 |  C-3 0A 000 |  --- 00 000 | 
+----------------------------------------------------------
+00 | B-1 01 037 |  B-1 0C 483 |  F-2 0A F0C |  --- 00 000 | 
+01 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+02 | B-1 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+03 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+04 | B-0 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+05 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+06 | B-0 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+07 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+08 | B-1 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+09 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+10 | B-1 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+11 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+12 | B-0 01 037 |  D-2 0C 400 |  F-2 0A 000 |  --- 00 000 | 
+13 | F#1 01 058 |  C#2 0C 400 |  F-2 0A 000 |  --- 00 000 | 
+14 | B-0 01 037 |  B-1 0C 400 |  F-2 0A 000 |  --- 00 000 | 
+15 | F#1 01 058 |  C#2 0C 400 |  F-2 0A 000 |  --- 00 000 | 
+16 | C#2 01 05A |  A-1 0C 400 |  D#2 0A 000 |  --- 00 000 | 
+17 | F#1 01 057 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+18 | C#2 01 05A |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+19 | F#1 01 057 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+20 | C#1 01 05A |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+21 | F#1 01 057 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+22 | C#1 01 05A |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+23 | F#1 01 057 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+24 | C#2 01 05A |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+25 | F#1 01 057 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+26 | C#2 01 05A |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+27 | F#1 01 057 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+28 | C#1 01 05A |  D-2 0C 400 |  D#2 0A 000 |  --- 00 000 | 
+29 | F#1 01 057 |  C#2 0C 400 |  D#2 0A 000 |  --- 00 000 | 
+30 | C#1 01 05A |  B-1 0C 400 |  D#2 0A 000 |  --- 00 000 | 
+31 | F#1 01 057 |  C#2 0C 400 |  D#2 0A 000 |  --- 00 000 | 
+32 | C#2 01 058 |  A-1 0C 400 |  D#2 0A 000 |  --- 00 000 | 
+33 | F#1 01 037 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+34 | C#2 01 058 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+35 | F#1 01 037 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+36 | C#1 01 058 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+37 | F#1 01 037 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+38 | C#1 01 058 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+39 | F#1 01 037 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+40 | C#2 01 058 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+41 | F#1 01 037 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+42 | C#2 01 058 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+43 | F#1 01 037 |  --- 00 400 |  D#2 0A 000 |  --- 00 000 | 
+44 | C#1 01 058 |  D-2 0C 400 |  G-2 0A 000 |  --- 00 000 | 
+45 | F#1 01 037 |  C#2 0C 400 |  G-2 0A 000 |  --- 00 000 | 
+46 | C#1 01 058 |  B-1 0C 400 |  D#2 0A 000 |  --- 00 000 | 
+47 | F#1 01 037 |  C#2 0C 400 |  D#2 0A 000 |  --- 00 000 | 
+48 | B-1 01 037 |  B-1 0C 400 |  F-2 0A 000 |  --- 00 000 | 
+49 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+50 | B-1 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+51 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+52 | B-0 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+53 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+54 | B-0 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+55 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+56 | B-1 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+57 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+58 | B-1 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+59 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+60 | B-0 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+61 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+62 | B-0 01 037 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+63 | F#1 01 058 |  --- 00 400 |  F-2 0A 000 |  --- 00 000 | 
+----------------------------------------------------------
+00 | D-2 01 059 |  G-1 0C 400 |  C#2 0A 000 |  --- 00 000 | 
+01 | G-1 01 047 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+02 | D-2 01 059 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+03 | G-1 01 047 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+04 | D-1 01 059 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+05 | G-1 01 047 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+06 | D-1 01 059 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+07 | G-1 01 047 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+08 | D-2 01 059 |  D-2 0C 400 |  C#2 0A 000 |  --- 00 000 | 
+09 | G-1 01 047 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+10 | D-2 01 059 |  C#2 0C 400 |  C#2 0A 000 |  --- 00 000 | 
+11 | G-1 01 047 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+12 | D-1 01 059 |  B-1 0C 400 |  C#2 0A 000 |  --- 00 000 | 
+13 | G-1 01 047 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+14 | D-1 01 059 |  A-1 0C 400 |  C#2 0A 000 |  --- 00 000 | 
+15 | G-1 01 047 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+16 | E-2 01 037 |  G-1 0C 400 |  C#2 0A 000 |  --- 00 000 | 
+17 | G-1 01 049 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+18 | E-2 01 037 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+19 | G-1 01 049 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+20 | E-1 01 037 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+21 | G-1 01 049 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+22 | E-1 01 037 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+23 | G-1 01 049 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+24 | E-2 01 037 |  D-2 0C 400 |  C#2 0A 000 |  --- 00 000 | 
+25 | G-1 01 049 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+26 | E-2 01 037 |  C#2 0C 400 |  C#2 0A 000 |  --- 00 000 | 
+27 | G-1 01 049 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+28 | E-1 01 037 |  B-1 0C 400 |  C#2 0A 000 |  --- 00 000 | 
+29 | G-1 01 049 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+30 | E-1 01 037 |  A-1 0C 400 |  C#2 0A 000 |  --- 00 000 | 
+31 | G-1 01 049 |  --- 00 400 |  C#2 0A 000 |  --- 00 000 | 
+32 | D-2 01 049 |  F#1 0C 400 |  C-2 0A 000 |  --- 00 000 | 
+33 | F#1 01 058 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+34 | D-2 01 049 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+35 | F#1 01 058 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+36 | D-1 01 049 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+37 | F#1 01 058 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+38 | D-1 01 049 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+39 | F#1 01 058 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+40 | D-2 01 049 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+41 | F#1 01 058 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+42 | D-2 01 049 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+43 | F#1 01 058 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+44 | D-1 01 049 |  F#1 0C 400 |  C-2 0A 000 |  --- 00 000 | 
+45 | F#1 01 058 |  G-1 0C 400 |  C-2 0A 000 |  --- 00 000 | 
+46 | D-1 01 049 |  F#1 0C 400 |  C-2 0A 000 |  --- 00 000 | 
+47 | F#1 01 058 |  E-1 0C 400 |  C-2 0A 000 |  --- 00 000 | 
+48 | C#2 01 059 |  F#1 0C 400 |  C-2 0A 000 |  --- 00 000 | 
+49 | F#1 01 047 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+50 | C#2 01 059 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+51 | F#1 01 047 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+52 | C#1 01 059 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+53 | F#1 01 047 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+54 | C#1 01 059 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+55 | F#1 01 047 |  --- 00 400 |  C-2 0A 000 |  --- 00 000 | 
+56 | C#2 01 059 |  F#1 0C 400 |  C-2 0A 000 |  --- 00 000 | 
+57 | F#1 01 047 |  G-1 0C 400 |  C-2 0A 000 |  --- 00 000 | 
+58 | C#2 01 059 |  F#1 0C 400 |  C-2 0A 000 |  --- 00 000 | 
+59 | F#1 01 047 |  E-1 0C 400 |  C-2 0A 000 |  --- 00 000 | 
+60 | C#1 01 059 |  F#1 0C 400 |  C-2 0A 000 |  --- 00 000 | 
+61 | F#1 01 047 |  G-1 0C 400 |  C-2 0A 000 |  --- 00 000 | 
+62 | C#1 01 059 |  A-1 0C 400 |  C-2 0A 000 |  --- 00 000 | 
+63 | F#1 01 047 |  F#1 0C 400 |  C-2 0A 000 |  --- 00 000 | 
+----------------------------------------------------------
+00 | B-0 01 F0C |  B-0 0C 000 |  F-2 0A F0C |  --- 00 000 | 
+01 | D-1 01 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+02 | F#1 01 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+03 | B-1 01 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+04 | D-2 01 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+05 | B-1 01 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+06 | D-2 01 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+07 | F#2 01 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+08 | B-2 01 000 |  A-1 0C 304 |  F-2 0A 000 |  --- 00 000 | 
+09 | B-2 01 C20 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+10 | B-2 01 C10 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+11 | B-2 01 C08 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+12 | B-2 01 C04 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+13 | B-2 01 C02 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+14 | B-2 01 C01 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+15 | --- 00 000 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+16 | --- 00 000 |  A-1 0C 3F2 |  D#2 0A 000 |  --- 00 000 | 
+17 | --- 00 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+18 | B-1 07 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+19 | B-1 07 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+20 | B-1 07 C10 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+21 | B-1 07 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+22 | B-1 07 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+23 | B-1 07 C10 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+24 | B-1 02 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+25 | B-1 02 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+26 | B-1 02 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+27 | B-1 02 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+28 | B-1 07 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+29 | B-1 07 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+30 | B-1 07 C10 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+31 | B-1 07 C08 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+32 | B-1 07 C04 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+33 | B-1 07 C02 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+34 | B-1 07 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+35 | B-1 07 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+36 | B-1 07 C10 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+37 | B-1 07 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+38 | B-1 07 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+39 | B-1 07 C10 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+40 | B-1 02 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+41 | B-1 02 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+42 | B-1 02 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+43 | B-1 02 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+44 | B-1 07 000 |  --- 00 000 |  G-2 0A 000 |  --- 00 000 | 
+45 | B-1 07 000 |  --- 00 000 |  G-2 0A 000 |  --- 00 000 | 
+46 | B-1 07 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+47 | B-1 07 C10 |  --- 00 D00 |  D#2 0A 000 |  --- 00 000 | 
+48 | B-1 07 C08 |  B-0 0C 000 |  F-2 0A 000 |  --- 00 000 | 
+49 | B-1 07 C04 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+50 | B-1 07 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+51 | B-1 07 C20 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+52 | B-1 07 C10 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+53 | B-1 07 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+54 | B-1 07 C20 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+55 | B-1 07 C10 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+56 | B-1 02 000 |  A-1 0C 304 |  F-2 0A 000 |  --- 00 000 | 
+57 | B-1 02 C20 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+58 | B-1 02 000 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+59 | B-1 02 C20 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+60 | B-1 07 000 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+61 | B-1 07 000 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+62 | B-1 07 000 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+63 | B-1 07 000 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+----------------------------------------------------------
+00 | B-1 02 000 |  B-0 0C 000 |  F-2 0A 000 |  --- 00 000 | 
+01 | B-1 02 C20 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+02 | B-1 02 C10 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+03 | B-1 02 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+04 | B-1 07 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+05 | B-1 07 C20 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+06 | B-1 07 C10 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+07 | B-1 07 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+08 | B-1 02 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+09 | B-1 02 C20 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+10 | B-1 02 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+11 | B-1 02 C20 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+12 | B-1 07 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+13 | B-1 07 C20 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+14 | B-1 07 C10 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+15 | B-1 07 C08 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+16 | B-1 02 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+17 | B-1 02 C20 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+18 | B-1 02 C10 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+19 | B-1 02 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+20 | B-1 07 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+21 | B-1 07 C20 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+22 | B-1 07 C10 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+23 | B-1 07 000 |  --- 00 000 |  F-2 0A 000 |  --- 00 000 | 
+24 | B-1 02 000 |  A-1 0C 304 |  F-2 0A 000 |  --- 00 000 | 
+25 | B-1 02 C20 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+26 | B-1 02 000 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+27 | B-1 02 C20 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+28 | B-1 07 000 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+29 | B-1 07 C20 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+30 | B-1 07 C10 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+31 | B-1 07 C08 |  --- 00 304 |  F-2 0A 000 |  --- 00 000 | 
+32 | B-1 02 000 |  A-1 0C 3F0 |  D#2 0A 000 |  --- 00 000 | 
+33 | B-1 02 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+34 | B-1 02 C10 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+35 | B-1 02 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+36 | B-1 07 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+37 | B-1 07 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+38 | B-1 07 C10 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+39 | B-1 07 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+40 | B-1 02 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+41 | B-1 02 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+42 | B-1 02 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+43 | B-1 02 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+44 | B-1 07 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+45 | B-1 07 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+46 | B-1 07 C10 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+47 | B-1 07 C08 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+48 | B-1 02 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+49 | B-1 02 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+50 | B-1 02 C10 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+51 | B-1 02 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+52 | B-1 07 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+53 | B-1 07 C20 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+54 | B-1 07 C10 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+55 | B-1 07 000 |  --- 00 000 |  D#2 0A 000 |  --- 00 000 | 
+56 | B-1 02 000 |  B-0 0C 304 |  D#2 0A 000 |  --- 00 000 | 
+57 | B-1 02 C20 |  --- 00 304 |  D#2 0A 000 |  --- 00 000 | 
+58 | B-1 02 000 |  --- 00 304 |  D#2 0A 000 |  --- 00 000 | 
+59 | B-1 02 C20 |  --- 00 304 |  D#2 0A 000 |  --- 00 000 | 
+60 | B-1 07 000 |  --- 00 304 |  D#2 0A 000 |  --- 00 000 | 
+61 | B-1 07 C20 |  --- 00 304 |  D#2 0A 000 |  --- 00 000 | 
+62 | B-1 07 C10 |  --- 00 304 |  D#2 0A 000 |  --- 00 000 | 
+63 | B-1 07 C08 |  --- 00 304 |  D#2 0A 000 |  --- 00 000 | 
+----------------------------------------------------------
+00 | B-1 07 000 |  B-0 0C A01 |  --- 00 000 |  --- 00 000 | 
+01 | B-1 07 C20 |  --- 00 A01 |  --- 00 000 |  --- 00 000 | 
+02 | B-1 07 C10 |  --- 00 A01 |  --- 00 000 |  --- 00 000 | 
+03 | B-1 07 C08 |  --- 00 A01 |  --- 00 000 |  --- 00 000 | 
+04 | B-1 07 C04 |  --- 00 A01 |  --- 00 000 |  --- 00 000 | 
+05 | B-1 07 C02 |  --- 00 A01 |  --- 00 000 |  --- 00 000 | 
+06 | B-1 07 C01 |  --- 00 A01 |  --- 00 000 |  --- 00 000 | 
+07 | --- 00 C00 |  --- 00 A01 |  --- 00 000 |  --- 00 000 | 
+08 | --- 00 C00 |  --- 00 A01 |  --- 00 000 |  --- 00 000 | 
+09 | --- 00 000 |  --- 00 A01 |  --- 00 000 |  --- 00 000 | 
+10 | B-1 07 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+11 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+12 | B-1 07 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+13 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+14 | B-1 02 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+15 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+16 | B-1 07 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+17 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+18 | B-1 07 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+19 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+20 | B-1 02 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+21 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+22 | B-1 07 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+23 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+24 | B-1 07 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+25 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+26 | B-1 02 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+27 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+28 | B-1 07 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+29 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+30 | B-1 07 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+31 | --- 00 D00 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+32 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+33 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+34 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+35 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+36 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+37 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+38 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+39 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+40 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+41 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+42 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+43 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+44 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+45 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+46 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+47 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+48 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+49 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+50 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+51 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+52 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+53 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+54 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+55 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+56 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+57 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+58 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+59 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+60 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+61 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+62 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+63 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+----------------------------------------------------------
+00 | B-1 02 000 |  A-1 0B A02 |  A-2 0B 000 |  --- 00 000 | 
+01 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+02 | B-1 07 000 |  E-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+03 | --- 00 000 |  D-2 0B A02 |  A-2 0B 000 |  --- 00 000 | 
+04 | B-1 07 000 |  E-2 0B A02 |  A-2 0B 000 |  --- 00 000 | 
+05 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+06 | B-1 02 000 |  F-1 0B A02 |  F-2 0B 000 |  --- 00 000 | 
+07 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+08 | B-1 07 000 |  C-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+09 | --- 00 000 |  B-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+10 | B-1 07 000 |  C-2 0B A02 |  C-3 0B 000 |  --- 00 000 | 
+11 | --- 00 000 |  B-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+12 | B-1 02 000 |  A-1 0B A02 |  A-2 0B 000 |  --- 00 000 | 
+13 | --- 00 000 |  --- 00 A02 |  A-2 0B 000 |  --- 00 000 | 
+14 | B-1 07 000 |  E-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+15 | --- 00 000 |  D-2 0B A02 |  A-2 0B 000 |  --- 00 000 | 
+16 | B-1 07 000 |  E-2 0B A02 |  A-2 0B 000 |  --- 00 000 | 
+17 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+18 | B-1 02 000 |  F-1 0B A02 |  F-2 0B 000 |  --- 00 000 | 
+19 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+20 | B-1 07 000 |  C-2 0B A02 |  E-2 0B 000 |  --- 00 000 | 
+21 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+22 | B-1 07 000 |  B-1 0B A02 |  D-2 0B 000 |  --- 00 000 | 
+23 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+24 | B-1 02 000 |  A-1 0B A02 |  A-2 0B 000 |  --- 00 000 | 
+25 | --- 00 000 |  --- 00 A02 |  A-2 0B 000 |  --- 00 000 | 
+26 | B-1 07 000 |  E-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+27 | --- 00 000 |  D-2 0B A02 |  A-2 0B 000 |  --- 00 000 | 
+28 | B-1 07 000 |  E-2 0B A02 |  A-2 0B 000 |  --- 00 000 | 
+29 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+30 | B-1 02 000 |  F-1 0B A02 |  F-2 0B 000 |  --- 00 000 | 
+31 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+32 | B-1 07 000 |  C-2 0B A02 |  C-3 0B 000 |  --- 00 000 | 
+33 | --- 00 000 |  B-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+34 | B-1 07 000 |  C-2 0B A02 |  B-2 0B 000 |  --- 00 000 | 
+35 | --- 00 000 |  B-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+36 | B-1 02 000 |  A-1 0B A02 |  A-2 0B 000 |  --- 00 000 | 
+37 | --- 00 000 |  --- 00 A02 |  A-2 0B 000 |  --- 00 000 | 
+38 | B-1 07 000 |  E-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+39 | --- 00 000 |  D-2 0B A02 |  A-2 0B 000 |  --- 00 000 | 
+40 | B-1 07 000 |  E-2 0B A02 |  A-2 0B 000 |  --- 00 000 | 
+41 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+42 | B-1 02 000 |  C-2 0B A02 |  C-3 0B 000 |  --- 00 000 | 
+43 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+44 | B-1 07 000 |  B-1 0B A02 |  B-2 0B 000 |  --- 00 000 | 
+45 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+46 | B-1 07 000 |  G-1 0B A02 |  G-2 0B 000 |  --- 00 000 | 
+47 | --- 00 D00 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+48 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+49 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+50 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+51 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+52 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+53 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+54 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+55 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+56 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+57 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+58 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+59 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+60 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+61 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+62 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+63 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+----------------------------------------------------------
+00 | B-1 02 000 |  A-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+01 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+02 | B-1 07 000 |  E-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+03 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+04 | B-1 07 000 |  E-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+05 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+06 | B-1 02 000 |  F-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+07 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+08 | B-1 07 000 |  C-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+09 | --- 00 000 |  B-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+10 | B-1 07 000 |  C-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+11 | --- 00 000 |  B-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+12 | B-1 02 000 |  A-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+13 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+14 | B-1 07 000 |  E-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+15 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+16 | B-1 07 000 |  E-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+17 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+18 | B-1 02 000 |  F-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+19 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+20 | B-1 07 000 |  C-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+21 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+22 | B-1 07 000 |  B-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+23 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+24 | B-1 02 000 |  A-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+25 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+26 | B-1 07 000 |  E-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+27 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+28 | B-1 07 000 |  E-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+29 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+30 | B-1 02 000 |  F-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+31 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+32 | B-1 07 000 |  C-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+33 | --- 00 000 |  B-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+34 | B-1 07 000 |  C-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+35 | --- 00 000 |  B-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+36 | B-1 02 000 |  A-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+37 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+38 | B-1 07 000 |  E-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+39 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+40 | B-1 07 000 |  E-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+41 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+42 | B-1 02 000 |  C-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+43 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+44 | B-1 07 000 |  B-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+45 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+46 | B-1 07 000 |  G-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+47 | --- 00 D00 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+48 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+49 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+50 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+51 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+52 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+53 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+54 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+55 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+56 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+57 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+58 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+59 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+60 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+61 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+62 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+63 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+----------------------------------------------------------
+00 | B-1 02 000 |  A-1 0B A02 |  A-2 0B 000 |  --- 00 000 | 
+01 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+02 | B-1 07 000 |  E-2 0B A02 |  E-3 0B 000 |  --- 00 000 | 
+03 | --- 00 000 |  D-2 0B A02 |  D-3 0B 000 |  --- 00 000 | 
+04 | B-1 07 000 |  E-2 0B A02 |  E-3 0B 000 |  --- 00 000 | 
+05 | --- 00 000 |  D-2 0B A02 |  F-3 0B 000 |  --- 00 000 | 
+06 | B-1 02 000 |  F-1 0B A02 |  F-3 0B 000 |  --- 00 000 | 
+07 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+08 | B-1 07 000 |  C-2 0B A02 |  E-3 0B 000 |  --- 00 000 | 
+09 | --- 00 000 |  B-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+10 | B-1 07 000 |  C-2 0B A02 |  D-3 0B 000 |  --- 00 000 | 
+11 | --- 00 000 |  B-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+12 | B-1 02 000 |  A-1 0B A02 |  E-3 0B 000 |  --- 00 000 | 
+13 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+14 | B-1 07 000 |  E-2 0B A02 |  D-3 0B 000 |  --- 00 000 | 
+15 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+16 | B-1 07 000 |  E-2 0B A02 |  C-3 0B 000 |  --- 00 000 | 
+17 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+18 | B-1 02 000 |  F-1 0B A02 |  D-3 0B 000 |  --- 00 000 | 
+19 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+20 | B-1 07 000 |  C-2 0B A02 |  C-3 0B 000 |  --- 00 000 | 
+21 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+22 | B-1 07 000 |  B-1 0B A02 |  B-2 0B 000 |  --- 00 000 | 
+23 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+24 | B-1 02 000 |  A-1 0B A02 |  A-2 0B 000 |  --- 00 000 | 
+25 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+26 | B-1 07 000 |  E-2 0B A02 |  E-3 0B 000 |  --- 00 000 | 
+27 | --- 00 000 |  D-2 0B A02 |  D-3 0B 000 |  --- 00 000 | 
+28 | B-1 07 000 |  E-2 0B A02 |  E-3 0B 000 |  --- 00 000 | 
+29 | --- 00 000 |  D-2 0B A02 |  G-3 0B 000 |  --- 00 000 | 
+30 | B-1 02 000 |  F-1 0B A02 |  F-3 0B 000 |  --- 00 000 | 
+31 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+32 | B-1 07 000 |  C-2 0B A02 |  E-3 0B 000 |  --- 00 000 | 
+33 | --- 00 000 |  B-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+34 | B-1 07 000 |  C-2 0B A02 |  D-3 0B 000 |  --- 00 000 | 
+35 | --- 00 000 |  B-1 0B A02 |  --- 00 000 |  --- 00 000 | 
+36 | B-1 02 000 |  A-1 0B A02 |  E-3 0B 000 |  --- 00 000 | 
+37 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+38 | B-1 07 000 |  E-2 0B A02 |  D-3 0B 000 |  --- 00 000 | 
+39 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+40 | B-1 07 000 |  E-2 0B A02 |  C-3 0B 000 |  --- 00 000 | 
+41 | --- 00 000 |  D-2 0B A02 |  --- 00 000 |  --- 00 000 | 
+42 | B-1 02 000 |  C-2 0B A02 |  D-3 0B 000 |  --- 00 000 | 
+43 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+44 | B-1 07 000 |  B-1 0B A02 |  C-3 0B 000 |  --- 00 000 | 
+45 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+46 | B-1 07 000 |  G-1 0B A02 |  B-2 0B 000 |  --- 00 000 | 
+47 | --- 00 D00 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+48 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+49 | --- 00 000 |  --- 00 A02 |  --- 00 000 |  --- 00 000 | 
+50 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+51 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+52 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+53 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+54 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+55 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+56 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+57 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+58 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+59 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+60 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+61 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+62 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+63 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+----------------------------------------------------------
+00 | B-1 02 000 |  A-1 0B 000 |  A-2 0B 000 |  --- 00 000 | 
+01 | --- 00 000 |  --- 00 A01 |  --- 00 A01 |  --- 00 000 | 
+02 | B-1 07 000 |  --- 00 A01 |  --- 00 A01 |  --- 00 000 | 
+03 | --- 00 000 |  --- 00 A01 |  --- 00 A01 |  --- 00 000 | 
+04 | B-1 07 000 |  --- 00 A01 |  --- 00 A01 |  --- 00 000 | 
+05 | --- 00 000 |  --- 00 A01 |  --- 00 A01 |  --- 00 000 | 
+06 | B-1 02 000 |  --- 00 A01 |  --- 00 A01 |  --- 00 000 | 
+07 | --- 00 000 |  --- 00 A01 |  --- 00 A01 |  --- 00 000 | 
+08 | B-1 07 000 |  --- 00 A01 |  --- 00 A01 |  --- 00 000 | 
+09 | --- 00 000 |  --- 00 A01 |  --- 00 A01 |  --- 00 000 | 
+10 | B-1 07 000 |  --- 00 A00 |  --- 00 A01 |  --- 00 000 | 
+11 | --- 00 000 |  --- 00 000 |  --- 00 A01 |  --- 00 000 | 
+12 | B-1 02 000 |  --- 00 000 |  --- 00 A01 |  --- 00 000 | 
+13 | --- 00 000 |  --- 00 000 |  --- 00 001 |  --- 00 000 | 
+14 | B-1 07 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+15 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+16 | B-1 07 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+17 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+18 | B-1 07 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+19 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+20 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+21 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+22 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+23 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+24 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+25 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+26 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+27 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+28 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+29 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+30 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+31 | --- 00 000 |  --- 00 000 |  --- 00 000 |  --- 00 000 | 
+32 | --- 00 000 |  --- 00 000 |  B-1 04 037 |  --- 00 000 | 
+33 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+34 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+35 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+36 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+37 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+38 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+39 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+40 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+41 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+42 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+43 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+44 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+45 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+46 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+47 | --- 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+48 | --- 00 000 |  --- 00 000 |  A-1 04 047 |  --- 00 000 | 
+49 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+50 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+51 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+52 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+53 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+54 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+55 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+56 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+57 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+58 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+59 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+60 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+61 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+62 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+63 | --- 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+----------------------------------------------------------
+00 | B-1 04 C20 |  --- 00 000 |  B-1 04 037 |  --- 00 000 | 
+01 | D-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+02 | F#2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+03 | D-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+04 | B-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+05 | F#2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+06 | D-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+07 | F#2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+08 | B-1 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+09 | D-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+10 | F#2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+11 | D-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+12 | B-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+13 | F#2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+14 | D-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+15 | F#2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+16 | B-1 00 000 |  --- 00 000 |  A-1 04 047 |  --- 00 000 | 
+17 | D-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+18 | F#2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+19 | D-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+20 | B-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+21 | F#2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+22 | D-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+23 | F#2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+24 | B-1 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+25 | D-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+26 | F#2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+27 | D-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+28 | B-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+29 | F#2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+30 | D-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+31 | F#2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+32 | B-1 00 000 |  --- 00 000 |  B-1 04 037 |  --- 00 000 | 
+33 | D-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+34 | F#2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+35 | D-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+36 | B-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+37 | F#2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+38 | D-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+39 | F#2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+40 | B-1 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+41 | D-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+42 | F#2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+43 | D-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+44 | B-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+45 | F#2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+46 | D-2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+47 | F#2 00 000 |  --- 00 000 |  --- 00 037 |  --- 00 000 | 
+48 | A-1 00 000 |  --- 00 000 |  A-1 04 047 |  --- 00 000 | 
+49 | C#2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+50 | E-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+51 | C#2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+52 | A-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+53 | E-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+54 | C#2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+55 | E-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+56 | A-1 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+57 | C#2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+58 | E-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+59 | C#2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+60 | A-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+61 | E-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+62 | C#2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+63 | E-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+----------------------------------------------------------
+00 | B-1 00 C20 |  B-2 03 000 |  B-1 04 037 |  --- 00 000 | 
+01 | D-2 00 000 |  --- 00 481 |  --- 00 037 |  --- 00 000 | 
+02 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+03 | D-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+04 | B-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+05 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+06 | D-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+07 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+08 | B-1 00 000 |  A-2 03 000 |  --- 00 037 |  --- 00 000 | 
+09 | D-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+10 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+11 | D-2 00 000 |  F#2 03 000 |  --- 00 037 |  --- 00 000 | 
+12 | B-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+13 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+14 | D-2 00 000 |  E-2 03 000 |  --- 00 037 |  --- 00 000 | 
+15 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+16 | A-1 00 000 |  A-2 03 000 |  A-1 04 047 |  --- 00 000 | 
+17 | C#2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+18 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+19 | C#2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+20 | A-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+21 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+22 | C#2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+23 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+24 | A-1 00 000 |  E-2 03 000 |  --- 00 047 |  --- 00 000 | 
+25 | C#2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+26 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+27 | C#2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+28 | A-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+29 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+30 | C#2 00 000 |  A-2 03 000 |  --- 00 047 |  --- 00 000 | 
+31 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+32 | B-1 00 000 |  B-2 03 000 |  B-1 04 037 |  --- 00 000 | 
+33 | D-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+34 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+35 | D-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+36 | B-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+37 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+38 | D-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+39 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+40 | B-1 00 000 |  F#3 03 000 |  --- 00 037 |  --- 00 000 | 
+41 | D-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+42 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+43 | D-2 00 000 |  E-3 03 000 |  --- 00 037 |  --- 00 000 | 
+44 | B-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+45 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+46 | D-2 00 000 |  D-3 03 000 |  --- 00 037 |  --- 00 000 | 
+47 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+48 | A-1 00 000 |  E-3 03 000 |  A-1 04 047 |  --- 00 000 | 
+49 | C#2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+50 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+51 | C#2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+52 | A-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+53 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+54 | C#2 00 000 |  D-3 03 000 |  --- 00 047 |  --- 00 000 | 
+55 | E-2 00 000 |  C#3 03 000 |  --- 00 047 |  --- 00 000 | 
+56 | A-1 00 000 |  D-3 03 000 |  --- 00 047 |  --- 00 000 | 
+57 | C#2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+58 | E-2 00 000 |  C#3 03 000 |  --- 00 047 |  --- 00 000 | 
+59 | C#2 00 000 |  B-2 03 000 |  --- 00 047 |  --- 00 000 | 
+60 | A-2 00 000 |  C#3 03 000 |  --- 00 047 |  --- 00 000 | 
+61 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+62 | C#2 00 000 |  B-2 03 000 |  --- 00 047 |  --- 00 000 | 
+63 | E-2 00 000 |  A-2 03 000 |  --- 00 047 |  --- 00 000 | 
+----------------------------------------------------------
+00 | B-1 00 C20 |  B-2 03 000 |  B-1 04 037 |  --- 00 000 | 
+01 | D-2 00 000 |  --- 00 481 |  --- 00 037 |  --- 00 000 | 
+02 | F#2 00 000 |  C#2 03 400 |  --- 00 037 |  --- 00 000 | 
+03 | D-2 00 000 |  A-2 03 400 |  --- 00 037 |  --- 00 000 | 
+04 | B-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+05 | F#2 00 000 |  C#2 03 400 |  --- 00 037 |  --- 00 000 | 
+06 | D-2 00 000 |  B-2 03 400 |  --- 00 037 |  --- 00 000 | 
+07 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+08 | B-1 00 000 |  B-2 03 000 |  --- 00 037 |  --- 00 000 | 
+09 | D-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+10 | F#2 00 000 |  C#2 03 400 |  --- 00 037 |  --- 00 000 | 
+11 | D-2 00 000 |  A-2 03 000 |  --- 00 037 |  --- 00 000 | 
+12 | B-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+13 | F#2 00 000 |  C#2 03 400 |  --- 00 037 |  --- 00 000 | 
+14 | D-2 00 000 |  B-2 03 000 |  --- 00 037 |  --- 00 000 | 
+15 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+16 | A-1 00 000 |  C#2 03 000 |  A-1 04 047 |  --- 00 000 | 
+17 | C#2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+18 | E-2 00 000 |  E-2 03 400 |  --- 00 047 |  --- 00 000 | 
+19 | C#2 00 000 |  C#2 03 400 |  --- 00 047 |  --- 00 000 | 
+20 | A-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+21 | E-2 00 000 |  A-2 03 400 |  --- 00 047 |  --- 00 000 | 
+22 | C#2 00 000 |  C#2 03 400 |  --- 00 047 |  --- 00 000 | 
+23 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+24 | A-1 00 000 |  B-2 03 000 |  --- 00 047 |  --- 00 000 | 
+25 | C#2 00 000 |  C#2 03 400 |  --- 00 047 |  --- 00 000 | 
+26 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+27 | C#2 00 000 |  C#3 03 400 |  --- 00 047 |  --- 00 000 | 
+28 | A-2 00 000 |  C#2 03 400 |  --- 00 047 |  --- 00 000 | 
+29 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+30 | C#2 00 000 |  D-3 03 000 |  --- 00 047 |  --- 00 000 | 
+31 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+32 | B-1 00 000 |  C#3 03 000 |  B-1 04 037 |  --- 00 000 | 
+33 | D-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+34 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+35 | D-2 00 000 |  B-2 03 400 |  --- 00 037 |  --- 00 000 | 
+36 | B-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+37 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+38 | D-2 00 000 |  D-3 03 400 |  --- 00 037 |  --- 00 000 | 
+39 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+40 | B-1 00 000 |  C#3 03 000 |  --- 00 037 |  --- 00 000 | 
+41 | D-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+42 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+43 | D-2 00 000 |  B-2 03 000 |  --- 00 037 |  --- 00 000 | 
+44 | B-2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+45 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+46 | D-2 00 000 |  D-3 03 000 |  --- 00 037 |  --- 00 000 | 
+47 | F#2 00 000 |  --- 00 400 |  --- 00 037 |  --- 00 000 | 
+48 | A-1 00 000 |  C#3 03 000 |  A-1 04 047 |  --- 00 000 | 
+49 | C#2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+50 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+51 | C#2 00 000 |  A-2 03 400 |  --- 00 047 |  --- 00 000 | 
+52 | A-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+53 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+54 | C#2 00 000 |  D-3 03 000 |  --- 00 047 |  --- 00 000 | 
+55 | E-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+56 | A-1 00 000 |  C#3 03 000 |  --- 00 047 |  --- 00 000 | 
+57 | C#2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+58 | E-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+59 | C#2 00 000 |  A-2 03 000 |  --- 00 047 |  --- 00 000 | 
+60 | A-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+61 | E-2 00 000 |  --- 00 400 |  --- 00 047 |  --- 00 000 | 
+62 | C#2 00 000 |  D-3 03 000 |  --- 00 047 |  --- 00 000 | 
+63 | E-2 00 000 |  --- 00 000 |  --- 00 047 |  --- 00 000 | 
+----------------------------------------------------------
+00 | B-1 01 000 |  B-2 03 000 |  B-1 04 037 |  --- 00 000 | 
+01 | D-2 00 000 |  C#3 03 000 |  --- 00 037 |  --- 00 000 | 
+02 | F#2 00 000 |  D-3 03 000 |  --- 00 037 |  --- 00 000 | 
+03 | D-2 00 000 |  B-2 03 000 |  --- 00 037 |  --- 00 000 | 
+04 | B-2 00 000 |  C#3 03 000 |  --- 00 037 |  --- 00 000 | 
+05 | F#2 00 000 |  D-3 03 000 |  --- 00 037 |  --- 00 000 | 
+06 | D-2 00 000 |  B-2 03 000 |  --- 00 037 |  --- 00 000 | 
+07 | F#2 00 000 |  C#3 03 000 |  --- 00 037 |  --- 00 000 | 
+08 | B-1 00 000 |  D-3 03 000 |  --- 00 037 |  --- 00 000 | 
+09 | D-2 00 000 |  B-2 03 000 |  --- 00 037 |  --- 00 000 | 
+10 | F#2 00 000 |  C#3 03 000 |  --- 00 037 |  --- 00 000 | 
+11 | D-2 00 000 |  D-3 03 000 |  --- 00 037 |  --- 00 000 | 
+12 | B-2 00 000 |  F#3 03 000 |  --- 00 037 |  --- 00 000 | 
+13 | F#2 00 000 |  E-3 03 000 |  --- 00 037 |  --- 00 000 | 
+14 | D-2 00 000 |  D-3 03 000 |  --- 00 037 |  --- 00 000 | 
+15 | F#2 00 000 |  C#3 03 000 |  --- 00 037 |  --- 00 000 | 
+16 | A-1 00 000 |  A-2 03 000 |  A-1 04 047 |  --- 00 000 | 
+17 | C#2 00 000 |  B-2 03 000 |  --- 00 047 |  --- 00 000 | 
+18 | E-2 00 000 |  C#3 03 000 |  --- 00 047 |  --- 00 000 | 
+19 | C#2 00 000 |  A-2 03 000 |  --- 00 047 |  --- 00 000 | 
+20 | A-2 00 000 |  B-2 03 000 |  --- 00 047 |  --- 00 000 | 
+21 | E-2 00 000 |  C#3 03 000 |  --- 00 047 |  --- 00 000 | 
+22 | C#2 00 000 |  A-2 03 000 |  --- 00 047 |  --- 00 000 | 
+23 | E-2 00 000 |  B-2 03 000 |  --- 00 047 |  --- 00 000 | 
+24 | A-1 00 000 |  C#3 03 000 |  --- 00 047 |  --- 00 000 | 
+25 | C#2 00 000 |  A-2 03 000 |  --- 00 047 |  --- 00 000 | 
+26 | E-2 00 000 |  B-2 03 000 |  --- 00 047 |  --- 00 000 | 
+27 | C#2 00 000 |  C#3 03 000 |  --- 00 047 |  --- 00 000 | 
+28 | A-2 00 000 |  E-3 03 000 |  --- 00 047 |  --- 00 000 | 
+29 | E-2 00 000 |  D-3 03 000 |  --- 00 047 |  --- 00 000 | 
+30 | C#2 00 000 |  C#3 03 000 |  --- 00 047 |  --- 00 000 | 
+31 | E-2 00 000 |  A-2 03 000 |  --- 00 047 |  --- 00 000 | 
+32 | B-1 00 000 |  B-2 03 000 |  B-1 04 037 |  --- 00 000 | 
+33 | D-2 00 000 |  F#2 03 000 |  --- 00 037 |  --- 00 000 | 
+34 | F#2 00 000 |  C#3 03 000 |  --- 00 037 |  --- 00 000 | 
+35 | D-2 00 000 |  F#2 03 000 |  --- 00 037 |  --- 00 000 | 
+36 | B-2 00 000 |  D-3 03 000 |  --- 00 037 |  --- 00 000 | 
+37 | F#2 00 000 |  F#2 03 000 |  --- 00 037 |  --- 00 000 | 
+38 | D-2 00 000 |  E-3 03 000 |  --- 00 037 |  --- 00 000 | 
+39 | F#2 00 000 |  F#2 03 000 |  --- 00 037 |  --- 00 000 | 
+40 | B-1 00 000 |  F#3 03 000 |  --- 00 037 |  --- 00 000 | 
+41 | D-2 00 000 |  F#2 03 000 |  --- 00 037 |  --- 00 000 | 
+42 | F#2 00 000 |  E-3 03 000 |  --- 00 037 |  --- 00 000 | 
+43 | D-2 00 000 |  F#2 03 000 |  --- 00 037 |  --- 00 000 | 
+44 | B-2 00 000 |  D-3 03 000 |  --- 00 037 |  --- 00 000 | 
+45 | F#2 00 000 |  F#2 03 000 |  --- 00 037 |  --- 00 000 | 
+46 | D-2 00 000 |  C#3 03 000 |  --- 00 037 |  --- 00 000 | 
+47 | F#2 00 000 |  F#2 03 000 |  --- 00 037 |  --- 00 000 | 
+48 | A-1 00 000 |  A-2 03 000 |  A-1 04 047 |  --- 00 000 | 
+49 | C#2 00 000 |  E-2 03 000 |  --- 00 047 |  --- 00 000 | 
+50 | E-2 00 000 |  B-2 03 000 |  --- 00 047 |  --- 00 000 | 
+51 | C#2 00 000 |  E-2 03 000 |  --- 00 047 |  --- 00 000 | 
+52 | A-2 00 000 |  C#3 03 000 |  --- 00 047 |  --- 00 000 | 
+53 | E-2 00 000 |  E-2 03 000 |  --- 00 047 |  --- 00 000 | 
+54 | C#2 00 000 |  D-3 03 000 |  --- 00 047 |  --- 00 000 | 
+55 | E-2 00 000 |  E-2 03 000 |  --- 00 047 |  --- 00 000 | 
+56 | A-1 00 000 |  E-3 03 000 |  --- 00 047 |  --- 00 000 | 
+57 | C#2 00 000 |  E-2 03 000 |  --- 00 047 |  --- 00 000 | 
+58 | E-2 00 000 |  D-3 03 000 |  --- 00 047 |  --- 00 000 | 
+59 | C#2 00 000 |  E-2 03 000 |  --- 00 047 |  --- 00 000 | 
+60 | A-2 00 000 |  C#3 03 000 |  --- 00 047 |  --- 00 000 | 
+61 | E-2 00 000 |  E-2 03 000 |  --- 00 047 |  --- 00 000 | 
+62 | C#2 00 000 |  E-3 03 000 |  --- 00 047 |  --- 00 000 | 
+63 | E-2 00 000 |  E-2 03 000 |  --- 00 047 |  --- 00 000 | 
+----------------------------------------------------------

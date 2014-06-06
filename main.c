@@ -99,16 +99,16 @@ void print_module(ProtrackerModule *mod) {
 	fprintf(stdout, "\n");
 	for (i=0;i<mod->nbPatterns;i++) {
 		pattern = mod->patterns+i;
-		fprintf(stdout,"--------------------------------------------------------------\n");
+		fprintf(stdout,"----------------------------------------------------------\n");
 		for(j=0;j<64;j++) {
 			fprintf(stdout,"%02i |",j);
 			for(k=0;k<4;k++) {
 				ProtrackerNote note;
 				note = pattern->notes[k][j];
-				fprintf(stdout, "%04s %02X %04X | ", ProtrackerGetNote(note.period), note.sample_idx, note.effect);
+				fprintf(stdout, "%04s %02X %03X | ", ProtrackerGetNote(note.period), note.sample_idx, note.effect);
 			}
 			fprintf(stdout,"\n");
 		}
 	}
-	fprintf(stdout,"--------------------------------------------------------------\n");
+	fprintf(stdout,"----------------------------------------------------------\n");
 }
