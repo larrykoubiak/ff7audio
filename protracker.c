@@ -26,19 +26,23 @@ int ProtrackerGetPatternCount(ProtrackerModule *mod) {
 			max = mod->sequence[i];
 		}
 	}
-	return max;
+	return max + 1;
 }
 
 char* ProtrackerGetNote(unsigned short period) {
 	char* note;
 	int i;
 	i=0;
-	while(i<60 && ProtrackerPeriods[i] != period) {
-		i++;}
-	if(i>=59) {
+	if(period==0) {
 		note = "---";
 	} else {
-		note = ProtrackerNotes[i];
+		while(i<60 && ProtrackerPeriods[i] != period) {
+			i++;}
+		if(i>=60) {
+			note = "???";
+		} else {
+			note = ProtrackerNotes[i];
+		}
 	}
 	return note;
 }

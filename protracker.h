@@ -26,7 +26,7 @@ typedef struct _ProtrackerModule {
 	unsigned char songlength;
 	unsigned char reset;
 	char sequence[128];
-	char type[4];
+	char type[5];
 	char nbPatterns;
 	ProtrackerPattern *patterns;
 } ProtrackerModule;
