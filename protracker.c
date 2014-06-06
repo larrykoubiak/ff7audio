@@ -1,5 +1,5 @@
+#include <stdlib.h>
 #include <string.h>
-
 #include "protracker.h"
 
 static unsigned short ProtrackerPeriods[] = {
@@ -14,20 +14,30 @@ static char* ProtrackerNotes[] = {
 "C-1","C#1","D-1","D#1","E-1","F-1","F#1","G-1","G#1","A-1","A#1","B-1",
 "C-2","C#2","D-2","D#2","E-2","F-2","F#2","G-2","G#2","A-2","A#2","B-2",
 "C-3","C#3","D-3","D#3","E-3","F-3","F#3","G-3","G#3","A-3","A#3","B-3",
-"C-4","C#4","D-4","D#4","E-4","F-4","F#4","G-4","G#4","A-4","A#4","B-4"
-};
+"C-4","C#4","D-4","D#4","E-4","F-4","F#4","G-4","G#4","A-4","A#4","B-4"};
 
-int ProtrackerGetPatternCount(ProtrackerModule *mod) {
-	unsigned int i;
-	unsigned char max;
-	max =0;
-	for(i=0;i<mod->songlength;i++) {
-		if(mod->sequence[i] >= max) {
-			max = mod->sequence[i];
-		}
-	}
-	return max + 1;
-}
+const char* ProtrackerTypes[][21] = {
+{"M.K.","4"},
+{"M!K!","4"},
+{"N.T.","4"},
+{"FLT4","4"},
+{"FLT8","8"},
+{"2CHN","2"},
+{"4CHN","4"},
+{"6CHN","6"},
+{"8CHN","8"},
+{"10CH","10"},
+{"12CH","12"},
+{"14CH","14"},
+{"16CH","16"},
+{"18CH","18"},
+{"20CH","20"},
+{"22CH","22"},
+{"24CH","24"},
+{"26CH","26"},
+{"28CH","28"},
+{"30CH","30"},
+{"32CH","32"}};
 
 char* ProtrackerGetNote(unsigned short period) {
 	char* note;
@@ -46,3 +56,29 @@ char* ProtrackerGetNote(unsigned short period) {
 	}
 	return note;
 }
+
+char ProtrackerGetPatternCount(ProtrackerModule *mod) {
+	unsigned char i;
+	unsigned char max;
+	max =0;
+	for(i=0;i<mod->songlength;i++) {
+		if(mod->sequence[i] >= max) {
+			max = mod->sequence[i];
+		}
+	}
+	return max + 1;
+}
+
+char ProtrackerGetChannelCount(ProtrackerModule *mod) {
+	unsigned char nbchan;
+	int i;
+	nbchan =0;
+	for(i=0;i<21;i++) {
+		if(strcmp(mod->type,ProtrackerTypes[i][0])) {
+			nbchan = (char)atoi(ProtrackerTypes[i][1]);
+			break;
+		}
+	}
+	return nbchan;
+}
+

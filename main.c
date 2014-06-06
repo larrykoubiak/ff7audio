@@ -50,6 +50,8 @@ void load_module(char* filename) {
 	fread(mod->sequence,1,128,file);
 	memset(mod->type,0,5);
 	fread(mod->type,1,4,file);
+	/* count channels */
+	mod->nbChannels = ProtrackerGetChannelCount(mod);
 	/* read pattern data*/
 	mod->nbPatterns = ProtrackerGetPatternCount(mod);
 	mod->patterns = malloc(sizeof(ProtrackerPattern)*mod->nbPatterns);
@@ -65,6 +67,7 @@ void load_module(char* filename) {
 			}
 		}
 	}
+	print_module(mod);
 	/*clean up*/
 	free(mod->patterns);
 	for(i=0;i<31;i++) {
@@ -81,10 +84,11 @@ void load_module(char* filename) {
 void print_module(ProtrackerModule *mod) {
 	int i,j,k;
 	ProtrackerPattern *pattern;
-	fprintf(stdout, "Song name   : %s\n", mod->songname);
-	fprintf(stdout, "Song length : %4i\n", mod->songlength);
-	fprintf(stdout, "Song reset  : %4i\n", mod->reset);
-	fprintf(stdout, "Song type   : %s\n", mod->type);
+	fprintf(stdout, "Song name   	: %s\n", mod->songname);
+	fprintf(stdout, "Song length 	: %4i\n", mod->songlength);
+	fprintf(stdout, "Song reset  	: %4i\n", mod->reset);
+	fprintf(stdout, "Song type   	: %4s\n", mod->type);
+	fprintf(stdout, "Song pat/chan	: %2i/%2i\n", mod->nbPatterns,mod->nbChannels);
 	fprintf(stdout, ".%20s.%6s.%3s.%3s.%5s.%5s.\n","--------------------","------","---","---","-----","-----");
 	fprintf(stdout, "|%20s|%6s|%3s|%3s|%5s|%5s|\n","Sample name","LEN", "FT", "VOL", "LOOP", "REPL");
 	fprintf(stdout, ".%20s.%6s.%3s.%3s.%5s.%5s.\n","--------------------","------","---","---","-----","-----");

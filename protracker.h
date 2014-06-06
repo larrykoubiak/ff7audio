@@ -17,7 +17,7 @@ typedef struct _ProtrackerNote {
 } ProtrackerNote;
 
 typedef struct _ProtrackerPattern {
-	ProtrackerNote notes[4][64];
+	ProtrackerNote notes[][];
 } ProtrackerPattern;
 
 typedef struct _ProtrackerModule {
@@ -28,11 +28,14 @@ typedef struct _ProtrackerModule {
 	char sequence[128];
 	char type[5];
 	char nbPatterns;
+	char nbChannels;
 	ProtrackerPattern *patterns;
 } ProtrackerModule;
 
-int ProtrackerGetPatternCount(ProtrackerModule *mod);
-
 char* ProtrackerGetNote(unsigned short period);
+
+char ProtrackerGetPatternCount(ProtrackerModule *mod);
+
+char ProtrackerGetChannelCount(ProtrackerModule *mod);
 
 #endif

@@ -1,7 +1,7 @@
 CC=gcc
 CFLAGS = -ansi -pedantic -Wall -c
 
-all: ff7audio
+all: ff7audio ff7audio_d
 
 ff7audio: protracker.o main.o
 	$(CC) protracker.o main.o -o ff7audio
@@ -21,7 +21,7 @@ protracker_d.o: protracker.c protracker.h
 	$(CC) $(CFLAGS) -g protracker.c -o protracker_d.o
 
 main_d.o: main.c main.h
-	$(CC) $(CFLAGS) -c main.c -o main_d.o
+	$(CC) $(CFLAGS) -g main.c -o main_d.o
 	
 clean:
 	rm -f *o *exe stdout.txt stderr.txt *~
