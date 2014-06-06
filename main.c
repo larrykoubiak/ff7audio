@@ -72,11 +72,11 @@ void load_module(char* filename) {
 	}
 	print_module(mod);
 	/*clean up*/
-	free(mod->patterns);
 	for(i=0;i<mod->nbPatterns;i++) {
 		pattern = mod->patterns+i;
-		free(pattern);
+		free(pattern->notes);
 	}
+	free(mod->patterns);
 	for(i=0;i<31;i++) {
 		free(mod->samples[i]);
 	}
