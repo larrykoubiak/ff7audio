@@ -5,6 +5,7 @@
 #include "main.h"
 int main(int argc, char **argv) {
 	char *filename;
+	ProtrackerModule *mod;
 	if(argc == 2) {
 		filename = argv[1];
 	} else if(argc ==3 && strcmp(argv[1],"-reverb") == 0) {
@@ -14,16 +15,18 @@ int main(int argc, char **argv) {
 		fprintf(stderr,"Usage: %s [-reverb] filename.\n",argv[0]);	
 		return EXIT_FAILURE;	
 	}
-	load_module(filename);
+	mod = malloc(sizeof(ProtrackerModule));
+	load_module(filename, mod);
+	print_module(mod);
+	free_module(mod);
 	return EXIT_SUCCESS;
 }
 
-void load_module(char* filename) {
+void load_module(char* filename, ProtrackerModule* mod) {
 	FILE *file;
 	long error;
 	int i,j,k;
 	unsigned char tempnote[4];
-	ProtrackerModule *mod;
 	ProtrackerPattern *pattern;
 	ProtrackerNote *note;
 	/*open file*/
@@ -35,7 +38,6 @@ void load_module(char* filename) {
 	/*----------*/
 	/*parse file*/
 	/*----------*/	
-	mod = malloc(sizeof(ProtrackerModule));
 	fread(mod->songname,20,1,file);
 	/*parse samples data*/
 	for(i=0;i<31;i++) {
@@ -70,8 +72,16 @@ void load_module(char* filename) {
 			}
 		}
 	}
-	print_module(mod);
-	/*clean up*/
+	error = fclose(file);
+	if(error!=0) {
+		fprintf(stderr, "Unable to close file.\n");
+		exit(EXIT_FAILURE);
+	}
+}
+
+void free_module(ProtrackerModule *mod) {
+	int i;
+	ProtrackerPattern *pattern;
 	for(i=0;i<mod->nbPatterns;i++) {
 		pattern = mod->patterns+i;
 		free(pattern->notes);
@@ -81,11 +91,6 @@ void load_module(char* filename) {
 		free(mod->samples[i]);
 	}
 	free(mod);
-	error = fclose(file);
-	if(error!=0) {
-		fprintf(stderr, "Unable to close file.\n");
-		exit(EXIT_FAILURE);
-	}
 }
 
 void print_module(ProtrackerModule *mod) {
