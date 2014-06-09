@@ -3,26 +3,30 @@
 #include <string.h>
 
 #include "main.h"
+
 int main(int argc, char **argv) {
 	char *filename;
+	long nbsamples;
 	ProtrackerModule *mod;
 	if(argc == 2) {
 		filename = argv[1];
 	} else if(argc ==3 && strcmp(argv[1],"-reverb") == 0) {
-		reverb_len = REVERB_BUF_LEN;
 		filename = argv[2];
 	} else {
 		fprintf(stderr,"Usage: %s [-reverb] filename.\n",argv[0]);	
 		return EXIT_FAILURE;	
 	}
 	mod = malloc(sizeof(ProtrackerModule));
-	load_module(filename, mod);
-	print_module(mod);
-	free_module(mod);
+	loadProtrackerMod(filename, mod);
+	nbsamples = ProtrackerGetSamplesCount(mod);
+	SDLPlayer_Init('n',nbsamples);
+	SDLPlayer_Play();
+	printProtrackerMod(mod);
+	freeProtrackerMod(mod);
 	return EXIT_SUCCESS;
 }
 
-void load_module(char* filename, ProtrackerModule* mod) {
+void loadProtrackerMod(char* filename, ProtrackerModule* mod) {
 	FILE *file;
 	long error;
 	int i,j,k;
@@ -79,7 +83,7 @@ void load_module(char* filename, ProtrackerModule* mod) {
 	}
 }
 
-void free_module(ProtrackerModule *mod) {
+void freeProtrackerMod(ProtrackerModule *mod) {
 	int i;
 	ProtrackerPattern *pattern;
 	for(i=0;i<mod->nbPatterns;i++) {
@@ -93,7 +97,7 @@ void free_module(ProtrackerModule *mod) {
 	free(mod);
 }
 
-void print_module(ProtrackerModule *mod) {
+void printProtrackerMod(ProtrackerModule *mod) {
 	int i,j,k;
 	ProtrackerPattern *pattern;
 	ProtrackerNote *note;

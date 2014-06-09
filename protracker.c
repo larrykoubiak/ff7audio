@@ -82,3 +82,7 @@ char ProtrackerGetChannelCount(ProtrackerModule *mod) {
 	return nbchan;
 }
 
+long ProtrackerGetSamplesCount(ProtrackerModule *mod) {
+	return 96000;
+}
+

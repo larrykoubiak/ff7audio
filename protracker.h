@@ -38,4 +38,6 @@ char ProtrackerGetPatternCount(ProtrackerModule *mod);
 
 char ProtrackerGetChannelCount(ProtrackerModule *mod);
 
+long ProtrackerGetSamplesCount(ProtrackerModule *mod);
+
 #endif
