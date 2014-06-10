@@ -46,7 +46,7 @@ void loadProtrackerMod(char* filename, ProtrackerModule* mod) {
 	/*parse samples data*/
 	for(i=0;i<31;i++) {
 		mod->samples[i] = malloc(sizeof(ProtrackerSample));
-		fread(mod->samples[i],sizeof(ProtrackerSample),1,file);
+		fread(mod->samples[i],sizeof(ProtrackerSample)-6,1,file);
 		mod->samples[i]->length = swap16(mod->samples[i]->length) * 2;
 		mod->samples[i]->repeat = swap16(mod->samples[i]->repeat) * 2;
 		mod->samples[i]->replen = swap16(mod->samples[i]->replen) * 2;
@@ -76,6 +76,10 @@ void loadProtrackerMod(char* filename, ProtrackerModule* mod) {
 			}
 		}
 	}
+	for(i=0;i<31;i++) {
+		mod->samples[i]->data = malloc(mod->samples[i]->length);
+		fread(mod->samples[i]->data,1,mod->samples[i]->length,file);
+	}
 	error = fclose(file);
 	if(error!=0) {
 		fprintf(stderr, "Unable to close file.\n");
@@ -92,6 +96,7 @@ void freeProtrackerMod(ProtrackerModule *mod) {
 	}
 	free(mod->patterns);
 	for(i=0;i<31;i++) {
+		free(mod->samples[i]->data);
 		free(mod->samples[i]);
 	}
 	free(mod);

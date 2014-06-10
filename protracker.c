@@ -16,7 +16,7 @@ static char* ProtrackerNotes[] = {
 "C-3","C#3","D-3","D#3","E-3","F-3","F#3","G-3","G#3","A-3","A#3","B-3",
 "C-4","C#4","D-4","D#4","E-4","F-4","F#4","G-4","G#4","A-4","A#4","B-4"};
 
-const char* ProtrackerTypes[][21] = {
+const char* ProtrackerTypes[21][2] = {
 {"M.K.","4"},
 {"M!K!","4"},
 {"N.T.","4"},

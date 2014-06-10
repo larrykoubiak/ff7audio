@@ -8,6 +8,7 @@ typedef struct _ProtrackerSample {
 	unsigned char volume;
 	unsigned short repeat;
 	unsigned short replen;
+	char *data;
 } ProtrackerSample;
 
 typedef struct _ProtrackerNote {
