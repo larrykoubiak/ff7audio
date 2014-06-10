@@ -46,7 +46,7 @@ void loadProtrackerMod(char* filename, ProtrackerModule* mod) {
 	/*parse samples data*/
 	for(i=0;i<31;i++) {
 		mod->samples[i] = malloc(sizeof(ProtrackerSample));
-		fread(mod->samples[i],sizeof(ProtrackerSample)-6,1,file);
+		fread(mod->samples[i],30,1,file);
 		mod->samples[i]->length = swap16(mod->samples[i]->length) * 2;
 		mod->samples[i]->repeat = swap16(mod->samples[i]->repeat) * 2;
 		mod->samples[i]->replen = swap16(mod->samples[i]->replen) * 2;
@@ -111,15 +111,15 @@ void printProtrackerMod(ProtrackerModule *mod) {
 	fprintf(stdout, "Song reset  	: %4i\n", mod->reset);
 	fprintf(stdout, "Song type   	: %4s\n", mod->type);
 	fprintf(stdout, "Song pat/chan	: %2i/%2i\n", mod->nbPatterns,mod->nbChannels);
-	fprintf(stdout, ".%20s.%6s.%3s.%3s.%5s.%5s.\n","--------------------","------","---","---","-----","-----");
-	fprintf(stdout, "|%20s|%6s|%3s|%3s|%5s|%5s|\n","Sample name","LEN", "FT", "VOL", "LOOP", "REPL");
-	fprintf(stdout, ".%20s.%6s.%3s.%3s.%5s.%5s.\n","--------------------","------","---","---","-----","-----");
+	fprintf(stdout, ".%2s.%20s.%6s.%3s.%3s.%5s.%5s.\n","--","--------------------","------","---","---","-----","-----");
+	fprintf(stdout, "|%2s|%20s|%6s|%3s|%3s|%5s|%5s|\n","#","NAME","LEN", "FT", "VOL", "LOOP", "REPL");
+	fprintf(stdout, ".%2s.%20s.%6s.%3s.%3s.%5s.%5s.\n","--","--------------------","------","---","---","-----","-----");
 	for (i=0;i<31;i++) {
 		ProtrackerSample *smp;
 		smp = mod->samples[i];	
-		fprintf(stdout, "|%20s|%6i|%3i|%3i|%5i|%5i|\n", smp->name, smp->length, smp->finetune, smp->volume, smp->repeat, smp->replen);
+		fprintf(stdout, "|%02X|%20s|%6i|%3i|%3i|%5i|%5i|\n", i+1,smp->name, smp->length, smp->finetune, smp->volume, smp->repeat, smp->replen);
 	}
-	fprintf(stdout, ".%20s.%6s.%3s.%3s.%5s.%5s.\n","--------------------","------","---","---","-----","-----");
+	fprintf(stdout, ".%2s.%20s.%6s.%3s.%3s.%5s.%5s.\n","--","--------------------","------","---","---","-----","-----");
 	fprintf(stdout, "Sequence : ");
 	for(i=0;i<mod->songlength;i++) {
 		fprintf(stdout, "%02i ",mod->sequence[i]);

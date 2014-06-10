@@ -8,7 +8,7 @@ typedef struct _ProtrackerSample {
 	unsigned char volume;
 	unsigned short repeat;
 	unsigned short replen;
-	char *data;
+	signed char *data;
 } ProtrackerSample;
 
 typedef struct _ProtrackerNote {
@@ -40,5 +40,7 @@ char ProtrackerGetPatternCount(ProtrackerModule *mod);
 char ProtrackerGetChannelCount(ProtrackerModule *mod);
 
 long ProtrackerGetSamplesCount(ProtrackerModule *mod);
+
+void ProtrackerInit(long sampling_frequency);
 
 #endif

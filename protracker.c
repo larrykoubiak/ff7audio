@@ -39,6 +39,17 @@ const char* ProtrackerTypes[21][2] = {
 {"30CH","30"},
 {"32CH","32"}};
 
+/*indexes*/
+static char tick_idx,row_idx, pattern_idx;
+static long sample_idx;
+
+/*offsets*/
+static long tick_offset, buffer_offset;
+
+/*lengths*/
+static long tick_length;
+static char row_length, pattern_length;
+
 char* ProtrackerGetNote(unsigned short period) {
 	char* note;
 	int i;
@@ -85,4 +96,13 @@ char ProtrackerGetChannelCount(ProtrackerModule *mod) {
 long ProtrackerGetSamplesCount(ProtrackerModule *mod) {
 	return 96000;
 }
+
+void ProtrackerInit(long sampling_frequency) {
+	tick_idx = row_idx =  pattern_idx = 0;
+	sample_idx = 0;
+	tick_offset = buffer_offset = 0;
+	tick_length = sampling_frequency / 125;
+	row_length = 6;
+	pattern_length = 64;
+ }
 
