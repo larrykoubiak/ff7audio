@@ -13,7 +13,7 @@ protracker.o: protracker.c protracker.h
 	$(CC) $(CFLAGS) protracker.c
 
 main.o: main.c main.h
-	$(CC) $(CFLAGS) main.c
+	$(CC) $(CFLAGS) main.c `sdl2-config --cflags`
 
 debug: ff7audio_d
 
@@ -27,7 +27,7 @@ protracker_d.o: protracker.c protracker.h
 	$(CC) $(CFLAGS) -g protracker.c -o protracker_d.o
 
 main_d.o: main.c main.h
-	$(CC) $(CFLAGS) -g main.c -o main_d.o
+	$(CC) $(CFLAGS) -g main.c -o main_d.o `sdl2-config --cflags`
 	
 clean:
 	rm -f *o *exe stdout.txt stderr.txt *~

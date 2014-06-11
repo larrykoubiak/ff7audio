@@ -33,6 +33,13 @@ typedef struct _ProtrackerModule {
 	ProtrackerPattern *patterns;
 } ProtrackerModule;
 
+typedef struct _ProtrackerChannel {
+	ProtrackerNote note;
+	ProtrackerSample *sample;
+	long sample_idx;
+} ProtrackerChannel;
+
+
 char* ProtrackerGetNote(unsigned short period);
 
 char ProtrackerGetPatternCount(ProtrackerModule *mod);

@@ -41,7 +41,6 @@ const char* ProtrackerTypes[21][2] = {
 
 /*indexes*/
 static char tick_idx,row_idx, pattern_idx;
-static long sample_idx;
 
 /*offsets*/
 static long tick_offset, buffer_offset;
