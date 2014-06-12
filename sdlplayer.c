@@ -1,4 +1,5 @@
 #include "sdlplayer.h"
+#include "protracker.h"
 
 static SDL_sem *semaphore;
 static long reverb_len,filt_l,filt_r;
@@ -26,6 +27,7 @@ void SDLPlayer_AudioCallback(void* userdata,Uint8* stream, int len) {
 		count = samples_remaining;
 	}
 	memset(mix_buffer,0, count* NUM_CHANNELS * sizeof(short));
+	ProtrackerGetAudio(mix_buffer,count);
 	SDLPLayer_DownSample(mix_buffer,(short*)stream, count);
 	samples_remaining -= count;
 	if(samples_remaining <=0) SDL_SemPost(semaphore);

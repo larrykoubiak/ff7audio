@@ -48,6 +48,8 @@ char ProtrackerGetChannelCount(ProtrackerModule *mod);
 
 long ProtrackerGetSamplesCount(ProtrackerModule *mod);
 
+void ProtrackerGetAudio(short *output, long count);
+
 void ProtrackerInit(long sampling_frequency);
 
 #endif

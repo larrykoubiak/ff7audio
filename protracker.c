@@ -96,12 +96,25 @@ long ProtrackerGetSamplesCount(ProtrackerModule *mod) {
 	return 96000;
 }
 
+void ProtrackerGetAudio(short *output, long count) {
+	long offset, remain;
+	offset = 0;
+	while (count>0) {
+		remain = tick_length - tick_offset;
+		if(remain >count) remain = count;
+		
+		tick_offset += remain;
+		
+		offset += remain;
+		count -= remain;
+	}
+}
+
 void ProtrackerInit(long sampling_frequency) {
 	tick_idx = row_idx =  pattern_idx = 0;
-	sample_idx = 0;
 	tick_offset = buffer_offset = 0;
 	tick_length = sampling_frequency / 125;
 	row_length = 6;
 	pattern_length = 64;
- }
+}
 
