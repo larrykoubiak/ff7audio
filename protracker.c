@@ -49,6 +49,8 @@ static long tick_offset, buffer_offset;
 static long tick_length;
 static char row_length, pattern_length;
 
+static struct ProtrackerChannel channels[32]:
+
 char* ProtrackerGetNote(unsigned short period) {
 	char* note;
 	int i;
